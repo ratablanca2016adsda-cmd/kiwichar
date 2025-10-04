@@ -19,29 +19,29 @@
 	"Simple Bar Spawn Chance" = 10
 
 ["Spawn Chances"]
-	#Chance for revolutionary grunts to spawn in world
-	#Default: 10
-	#Range: 0.0 ~ 100.0
-	"Rev Grunts Spawn Chance" = 10.0
-	#Chance for revolutionary officers to spawn in world
-	#Default: 10
-	#Range: 0.0 ~ 100.0
-	"Rev Officers Spawn Chance" = 10.0
 	#Chance for revolutionary commanders to spawn in world
 	#Default: 10
 	#Range: 0.0 ~ 100.0
 	"Rev Commanders Spawn Chance" = 10.0
+	#Chance for revolutionary officers to spawn in world
+	#Default: 10
+	#Range: 0.0 ~ 100.0
+	"Rev Officers Spawn Chance" = 10.0
 	#Chance for PX-II to spawn in world
 	#Default: 100
 	#Range: 0.0 ~ 100.0
 	"PX-II Spawn Chance" = 100.0
+	#Chance for revolutionary grunts to spawn in world
+	#Default: 10
+	#Range: 0.0 ~ 100.0
+	"Rev Grunts Spawn Chance" = 10.0
 
 [Factions]
-	#Disable Faction Specific Title Passive Bonuses
-	#Default: true
-	"Disable Faction Specific Title Passive Bonuses" = true
 	#Bounty Requirement for Unlocking the Emperor Passive Bonus, set to -1 to disable natural unlock
 	#Default: 1,000,000
 	#Range: -1.0 ~ 1.0E10
 	"Emperor Bounty Requirement" = 1000000.0
+	#Disable Faction Specific Title Passive Bonuses
+	#Default: true
+	"Disable Faction Specific Title Passive Bonuses" = true
 
