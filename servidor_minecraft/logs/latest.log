@@ -255,3 +255,21 @@
 [15:01:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Removed Devil Fruit for DarkKnight124]
 [15:01:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /removedf
 [15:01:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Removed Devil Fruit for DarkKnight124]
+[15:10:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
+[15:10:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[15:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
+[15:10:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15:10:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15:10:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15:10:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:10:30] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:10:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[15:10:30] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:10:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[15:10:31] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:10:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[challenges]'/mineminenomi:challenges
+[15:10:31] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
+[15:10:31] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:10:31] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:10:31] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:10:31] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
