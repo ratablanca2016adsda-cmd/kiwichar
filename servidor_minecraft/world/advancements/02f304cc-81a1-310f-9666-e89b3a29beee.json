@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_dhow": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -669,6 +675,12 @@
   "smallships:recipes/lotr_beech_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
     },
     "done": true
   },
@@ -1477,10 +1489,17 @@
       "cooked_mutton": "2025-10-05 21:26:30 +0000",
       "cooked_beef": "2025-10-05 21:29:15 +0000",
       "porkchop": "2025-10-05 21:22:45 +0000",
+      "apple": "2025-10-05 22:29:36 +0000",
       "bread": "2025-10-05 22:13:01 +0000",
       "beetroot": "2025-10-05 21:52:44 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -1515,6 +1534,12 @@
   "smallships:recipes/lotr_rotten_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
     },
     "done": true
   },
@@ -2203,6 +2228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-10-05 22:29:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_palm_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -2290,6 +2321,12 @@
   "smallships:recipes/bop_dead_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
     },
     "done": true
   },
@@ -2420,6 +2457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:42:14 +0000"
@@ -2450,6 +2493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -2477,6 +2526,12 @@
   "smallships:recipes/lotr_cherry_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-05 22:29:00 +0000"
     },
     "done": true
   },

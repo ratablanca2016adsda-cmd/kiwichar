@@ -436,3 +436,25 @@
 [22:22:24] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias moved too quickly! -10.285,1.228,0.211
 [22:22:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias GevaudanBk
 [22:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to GevaudanBk]
+[22:24:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[22:24:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[22:24:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
+[22:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
+[22:26:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
+[22:26:06] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[22:26:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
+[22:28:48] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[22:28:49] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 24 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[22:28:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:36389] logged in with entity id 6,986 at (637.675, 80, -1,126.568)
+[22:28:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[22:28:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[22:28:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[22:29:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
+[22:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
+[22:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk has made the advancement [Forgotten Wars and Kingdoms]
+[22:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero has made the advancement [Forgotten Wars and Kingdoms]
+[22:30:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias
+[22:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Matias]
+[22:30:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero has made the advancement [Monster Hunter]
+[22:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk has made the advancement [Monster Hunter]
+[22:33:10] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias moved wrongly!

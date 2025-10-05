@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-10-05 22:30:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_green_oak_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -389,6 +395,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_castle": "2025-10-05 22:30:06 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/lotr_apple_dhow": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -599,11 +611,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-10-05 22:30:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_dhow": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-10-05 22:31:00 +0000",
+      "minecraft:silverfish": "2025-10-05 22:32:15 +0000",
+      "minecraft:zombie": "2025-10-05 22:30:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -719,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -764,6 +796,12 @@
   "smallships:recipes/lotr_charred_cog": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-10-05 22:31:24 +0000"
     },
     "done": true
   },
@@ -815,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/spruce_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000",
@@ -855,6 +899,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-10-04 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_castle": "2025-10-05 22:30:06 +0000"
     },
     "done": true
   },
@@ -1050,6 +1100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-10-05 22:30:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_hellbark_dhow": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -1206,6 +1262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -1257,6 +1319,12 @@
   "smallships:recipes/bop_cherry_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-10-05 22:30:53 +0000"
     },
     "done": true
   },
@@ -1761,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -1781,7 +1855,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-10-05 22:24:47 +0000",
       "cooked_mutton": "2025-10-04 22:55:24 +0000",
+      "cooked_beef": "2025-10-05 22:32:21 +0000",
       "bread": "2025-10-04 21:49:30 +0000"
     },
     "done": false
@@ -1884,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pear_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -1944,6 +2026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-10-05 22:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-04 21:36:50 +0000"
@@ -1995,6 +2083,12 @@
   "smallships:recipes/envi_cherry_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-10-05 22:30:06 +0000"
     },
     "done": true
   },
@@ -2109,6 +2203,12 @@
   "smallships:recipes/jungle_cog": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
     },
     "done": true
   },
@@ -2298,6 +2398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -2367,6 +2473,12 @@
   "smallships:recipes/bop_dead_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
     },
     "done": true
   },
@@ -2463,6 +2575,12 @@
   "smallships:recipes/bop_willow_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-10-05 22:30:23 +0000"
     },
     "done": true
   },
@@ -2607,6 +2725,12 @@
   "smallships:recipes/bop_palm_galley": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-10-05 22:23:30 +0000"
     },
     "done": true
   },
@@ -2875,6 +2999,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2025-10-05 22:30:06 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/envi_willow_brigg": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -2968,6 +3098,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-04 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-10-05 22:23:30 +0000"
     },
     "done": true
   },
