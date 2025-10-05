@@ -17,19 +17,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_mallorn_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -42,12 +30,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-10-05 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-10-05 21:24:23 +0000"
     },
@@ -71,33 +53,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_cog": {
+  "minecraft:recipes/combat/iron_sword": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -108,18 +72,6 @@
     "done": true
   },
   "smallships:recipes/bop_mahogany_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_cherry_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -137,25 +89,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-10-05 21:18:19 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_larch_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -209,33 +143,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_mallorn_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/bop_fir_galley": {
+  "minecraft:recipes/tools/shears": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -251,18 +167,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_beech_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_cypress_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -275,31 +179,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_jacaranda_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_lebethron_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_cherry_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -308,30 +188,6 @@
   "smallships:recipes/lotr_charred_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_rotten_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
     },
     "done": true
   },
@@ -353,9 +209,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pine_war_galley": {
+  "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -371,22 +227,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_jacaranda_cog": {
+  "minecraft:recipes/combat/shield": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_mutton": "2025-10-05 21:26:30 +0000",
-      "porkchop": "2025-10-05 21:22:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-10-05 21:18:19 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -402,36 +245,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_apple_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "mineminenomi:recipes/weapons/umbrella": {
-    "criteria": {
-      "has_stick": "2025-10-05 21:18:19 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_rotten_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2025-10-05 21:12:10 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/birch_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -444,31 +257,13 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_dhow": {
+  "minecraft:recipes/redstone/hopper": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
   "smallships:recipes/lotr_green_oak_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -480,19 +275,13 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_green_oak_dhow": {
+  "mineminenomi:recipes/misc/handcuffs": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
   "smallships:recipes/lotr_aspen_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -504,15 +293,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_drakkar": {
+  "mineminenomi:recipes/misc/bullet": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -522,25 +305,7 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_fir_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_cherry_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_apple_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -558,15 +323,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
-      "has_planks": "2025-10-05 21:18:09 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_redwood_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -577,30 +336,6 @@
     "done": true
   },
   "smallships:recipes/oak_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_beech_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_cherry_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -618,33 +353,9 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_rowboat": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_cherry_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-10-05 21:24:23 +0000"
+      "iron_leggings": "2025-10-05 21:42:50 +0000"
     },
     "done": true
   },
@@ -660,19 +371,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-10-05 21:24:23 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_pine_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -684,33 +383,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-10-05 21:16:27 +0000"
-    },
-    "done": true
-  },
-  "mineminenomi:recipes/misc/flag_upgrade": {
-    "criteria": {
-      "has_flag": "2025-10-05 21:22:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_cedar_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-10-05 21:18:19 +0000"
     },
     "done": true
   },
@@ -720,31 +395,7 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-10-05 21:22:45 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_mahogany_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mallorn_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -753,18 +404,6 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-10-05 21:18:09 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
@@ -786,70 +425,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/bop_jacaranda_dhow": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000",
-      "has_the_recipe": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_redwood_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -859,25 +443,7 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_charred_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/sail_item": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_magic_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -895,79 +461,7 @@
     },
     "done": true
   },
-  "smallships:recipes/dark_oak_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_aspen_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mirk_oak_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-10-05 21:16:27 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_willow_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-10-05 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/envi_willow_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_redwood_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_cherry_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -979,15 +473,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_redwood_cog": {
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lairelosse_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1003,21 +491,15 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/equipment/cola_backpack": {
+    "criteria": {
+      "has_iron": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
     },
     "done": true
   },
@@ -1033,9 +515,21 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/misc/cannon": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2025-10-05 21:42:50 +0000"
     },
     "done": true
   },
@@ -1045,9 +539,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_war_galley": {
+  "chisel:recipes/chisel/factory/dots": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1063,9 +557,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mirk_oak_brigg": {
+  "chisel:recipes/chisel/iron_chisel": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1075,31 +569,13 @@
     },
     "done": true
   },
-  "smallships:recipes/oak_cog": {
+  "minecraft:recipes/decorations/chain": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
   "smallships:recipes/lotr_rotten_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-10-05 21:24:51 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1117,12 +593,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_palm_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1135,21 +605,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-10-05 21:22:42 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
@@ -1159,25 +617,13 @@
     },
     "done": true
   },
-  "mineminenomi:adventure/root": {
+  "mineminenomi:recipes/misc/mangrove_planks": {
     "criteria": {
-      "killed_something": "2025-10-05 21:22:42 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_log": "2025-10-05 21:30:25 +0000"
     },
     "done": true
   },
   "smallships:recipes/bop_magic_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_magic_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1189,25 +635,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-10-05 21:18:19 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_fir_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1217,12 +645,6 @@
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000",
       "has_the_recipe": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
@@ -1244,9 +666,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_umbran_war_galley": {
+  "chisel:recipes/chisel/tyrian/shining": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1268,18 +690,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_willow_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/jungle_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1298,45 +708,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/spruce_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_lairelosse_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_cedar_rowboat": {
+  "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-10-05 21:22:52 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1346,37 +726,7 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2025-10-05 21:18:26 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_lairelosse_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lairelosse_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1406,43 +756,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-10-05 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-10-05 21:16:27 +0000"
     },
     "done": true
   },
-  "smallships:recipes/spruce_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/acacia_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_mahogany_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1460,43 +780,19 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_palm_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_hellbark_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/envi_willow_galley": {
+  "minecraft:recipes/tools/iron_axe": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
   "smallships:recipes/lotr_beech_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1514,33 +810,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-10-05 21:26:20 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_hellbark_dhow": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "minecraft:recipes/combat/iron_boots": {
     "criteria": {
-      "has_planks": "2025-10-05 21:18:09 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cypress_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1568,12 +846,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_redwood_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_dead_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1592,39 +864,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_green_oak_brigg": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/envi_wisteria_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_dhow": {
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-10-05 21:16:27 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1634,15 +882,15 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-10-05 21:18:17 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/oak_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -1655,18 +903,6 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-10-05 21:18:19 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_cherry_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
@@ -1730,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2025-10-05 21:42:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1748,56 +990,13 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_beech_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_cherry_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-10-05 21:18:09 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_jacaranda_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lairelosse_war_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000",
-      "has_the_recipe": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_dhow": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1812,12 +1011,6 @@
   "smallships:recipes/acacia_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/flint_knife": {
-    "criteria": {
-      "has_stick": "2025-10-05 21:18:19 +0000"
     },
     "done": true
   },
@@ -1839,25 +1032,7 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lebethron_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_palm_cog": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -1879,8 +1054,11 @@
     "criteria": {
       "minecraft:forest": "2025-10-05 21:12:10 +0000",
       "minecraft:mountains": "2025-10-05 21:21:45 +0000",
+      "minecraft:taiga": "2025-10-05 21:29:09 +0000",
+      "minecraft:beach": "2025-10-05 21:31:21 +0000",
       "minecraft:river": "2025-10-05 21:16:19 +0000",
-      "minecraft:wooded_hills": "2025-10-05 21:17:55 +0000"
+      "minecraft:wooded_hills": "2025-10-05 21:17:55 +0000",
+      "minecraft:plains": "2025-10-05 21:43:54 +0000"
     },
     "done": false
   },
@@ -1920,12 +1098,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_maple_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_aspen_dhow": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1941,6 +1113,1181 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/flag": {
+    "criteria": {
+      "has_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-10-05 21:22:55 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-10-05 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-10-05 21:51:31 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_larch_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "chisel:recipes/chisel/diamond_chisel": {
+    "criteria": {
+      "has_diamond": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/weapons/scissors": {
+    "criteria": {
+      "has_iron": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-10-05 21:28:04 +0000",
+      "cooked_mutton": "2025-10-05 21:26:30 +0000",
+      "cooked_beef": "2025-10-05 21:29:15 +0000",
+      "porkchop": "2025-10-05 21:22:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-10-05 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/weapons/umbrella": {
+    "criteria": {
+      "has_stick": "2025-10-05 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-10-05 21:12:10 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:18:09 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_cherry_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-10-05 21:51:31 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-10-05 21:16:27 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/flag_upgrade": {
+    "criteria": {
+      "has_flag": "2025-10-05 21:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-10-05 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/weapons/pipe": {
+    "criteria": {
+      "has_iron": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-05 21:22:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mallorn_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_jacaranda_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/jungle_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000",
+      "has_the_recipe": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mirk_oak_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-10-05 21:16:27 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/oak_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "chisel:recipes/chisel/auto_chisel": {
+    "criteria": {
+      "has_iron": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_rotten_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_mirk_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/oak_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-05 21:24:51 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_fir_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-05 21:22:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_magic_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-10-05 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_hellbark_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pine_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cherry_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_wisteria_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-10-05 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_aspen_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-10-05 21:18:26 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_fir_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/spruce_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_mahogany_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/birch_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/envi_willow_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_palm_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_apple_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-10-05 21:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:18:09 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cypress_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_redwood_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_green_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_pear_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_cedar_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-05 21:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-05 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_cherry_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_dead_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_beech_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:18:09 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_holly_cog": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lairelosse_war_galley": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000",
+      "has_the_recipe": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_umbran_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/bop_willow_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-10-05 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_lebethron_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/dark_oak_rowboat": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_charred_drakkar": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/lotr_maple_dhow": {
+    "criteria": {
+      "in_water": "2025-10-05 21:22:25 +0000"
     },
     "done": true
   },
@@ -1968,12 +2315,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_palm_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1981,18 +2322,6 @@
     "done": true
   },
   "smallships:recipes/bop_redwood_rowboat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-10-05 21:24:23 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -2010,25 +2339,13 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_wisteria_brigg": {
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron_ingot": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mallorn_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
     },
@@ -2040,9 +2357,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_cog": {
+  "mineminenomi:recipes/misc/mangrove_wood": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_log": "2025-10-05 21:30:25 +0000"
     },
     "done": true
   },
@@ -2058,21 +2375,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_drakkar": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/bop_mahogany_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "mineminenomi:recipes/misc/flag": {
-    "criteria": {
-      "has_wool": "2025-10-05 21:22:52 +0000"
     },
     "done": true
   },
@@ -2100,9 +2405,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_rowboat": {
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
     "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_cooked_beef": "2025-10-05 21:29:12 +0000"
     },
     "done": true
   },
@@ -2142,21 +2447,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/lotr_lebethron_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2025-10-05 21:22:52 +0000"
     },
     "done": true
   },
@@ -2178,9 +2471,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_cobblestone": "2025-10-05 21:24:23 +0000"
+      "iron": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },
@@ -2190,21 +2483,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
+  "mineminenomi:recipes/weapons/mace": {
     "criteria": {
-      "has_mutton": "2025-10-05 21:22:55 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_galley": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_dhow": {
-    "criteria": {
-      "in_water": "2025-10-05 21:22:25 +0000"
+      "has_iron": "2025-10-05 21:42:14 +0000"
     },
     "done": true
   },

@@ -603,6 +603,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-10-05 21:49:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -666,6 +672,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-10-04 22:05:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-10-05 21:49:34 +0000"
     },
     "done": true
   },
@@ -1017,6 +1029,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-10-05 21:49:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1032,6 +1050,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-10-05 21:49:04 +0000"
     },
     "done": true
   },
@@ -1086,6 +1110,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-10-05 15:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-10-05 21:49:04 +0000"
     },
     "done": true
   },
@@ -1460,6 +1490,12 @@
   "smallships:recipes/envi_willow_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-10-05 21:49:04 +0000"
     },
     "done": true
   },
@@ -2600,6 +2636,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-10-05 21:49:34 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2732,6 +2774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-10-05 21:41:07 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2747,6 +2795,12 @@
   "smallships:recipes/bop_fir_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-10-05 21:49:34 +0000"
     },
     "done": true
   },
@@ -2858,6 +2912,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-10-05 21:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-10-04 20:49:36 +0000"
@@ -2921,6 +2981,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-10-04 20:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-05 21:38:47 +0000"
     },
     "done": true
   },
