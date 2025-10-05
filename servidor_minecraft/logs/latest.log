@@ -394,3 +394,30 @@
 [22:02:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Brute
 [22:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
 [22:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:03:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Charged Cleave
+[22:03:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[22:03:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:04:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero lost connection: Disconnected
+[22:04:48] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8cae250b-7a60-3eb3-b16a-903d129eecd4 was unloaded
+[22:04:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero left the game
+[22:05:13] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[22:05:13] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 24 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[22:05:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:47191] logged in with entity id 4,497 at (662.871, 65, -253.258)
+[22:05:17] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[22:05:17] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[22:05:17] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[22:06:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[22:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[22:06:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Grunt
+[22:06:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[22:06:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:11:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias GevaudanBk
+[22:11:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to GevaudanBk]
+[22:12:43] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sero is 8cae250b-7a60-3eb3-b16a-903d129eecd4
+[22:12:44] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[22:12:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sero[/127.66.243.34:58741] logged in with entity id 4,860 at (679.488, 64, -308.7)
+[22:12:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8cae250b-7a60-3eb3-b16a-903d129eecd4 was loaded
+[22:12:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[22:12:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[22:12:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
+[22:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]

@@ -1087,6 +1087,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-05 22:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-10-05 21:24:23 +0000"
@@ -1420,6 +1426,12 @@
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-10-05 22:06:46 +0000"
     },
     "done": true
   },
@@ -1935,6 +1947,12 @@
   "chisel:recipes/chisel/auto_chisel": {
     "criteria": {
       "has_iron": "2025-10-05 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-05 22:06:46 +0000"
     },
     "done": true
   },
