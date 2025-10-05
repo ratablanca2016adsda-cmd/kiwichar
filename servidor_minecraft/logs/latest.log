@@ -258,3 +258,31 @@
 [19:27:44] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
 [19:27:44] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
 [19:27:54] [Async Chat Thread - 2/INFO] [/]: <GevaudanBk> Como subo de nivel?
+[19:34:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[19:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[19:35:03] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> primero dale a la r
+[19:35:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk has made the advancement [Stone Age]
+[19:35:14] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> con eso seleccionas tu raza nivel
+[19:35:17] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> y faccion
+[19:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk has made the advancement [Getting an Upgrade]
+[19:35:44] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> puedes revisar las habilidades que te otorga cada raza faccion y estilo de pelea
+[19:36:01] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> que raza eres ?
+[19:36:06] [Async Chat Thread - 3/INFO] [/]: <GevaudanBk> La de sanji
+[19:36:16] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> eres himano modificado ?
+[19:36:20] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> *humano
+[19:36:27] [Async Chat Thread - 3/INFO] [/]: <GevaudanBk> Se
+[19:36:30] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> ok
+[19:36:37] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> para subir de nivel
+[19:36:54] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> tienes que matar mobs hosriles o mobs del mismo mod
+[19:37:06] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> y ese nivel se llamad doriki
+[19:37:28] [Async Chat Thread - 3/INFO] [/]: <GevaudanBk> Lo tengo en 10
+[19:37:41] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> ok
+[19:37:50] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> eso lo subes matando
+[19:38:06] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> y para obtener tus habilidades de raza tienes que subir de doriki
+[19:38:12] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> pero tu raza es algo especial
+[19:38:36] [Async Chat Thread - 3/INFO] [/]: <GevaudanBk> El black leg sigue haciendo daño si uso una espada?
+[19:38:45] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> si buscas en el jei puedes ver el crafteo de el addon de unos numeros
+[19:38:57] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> si sigue haciendo daño si usas espadas
+[19:39:03] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> pero haces ams daño con el pie
+[19:39:15] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved wrongly!
+[19:39:22] [Async Chat Thread - 3/INFO] [/]: <GevaudanBk> a
