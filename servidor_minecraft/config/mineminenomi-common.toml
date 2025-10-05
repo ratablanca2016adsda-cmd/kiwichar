@@ -67,14 +67,14 @@
 	#Sets a new limit for maximum doriki a player may obtain 
 	#Default: 10000
 	#Range: 0 ~ 100000
-	"Doriki Limit" = 10000
+	"Doriki Limit" = 15000
 	#Forces new players to select their race, faction and fighting style upon joining the world
 	#Default: false
 	"Force Selection" = false
 
 	[General."Stats to Keep"]
 		"Keep Fighting Style" = true
-		"Keep Devil Fruit" = false
+		"Keep Devil Fruit" = true
 		#Percentage of bounty to keep after death
 		#Default: 33
 		#Range: 0 ~ 100

@@ -4,5 +4,17 @@
     "name": "DarkKnight124",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b4a6e347-88c8-4048-a659-92b64da076e4",
+    "name": "DARKKNIGHT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1593d46c-9149-4521-942f-2758cd72872c",
+    "name": "Dark",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
