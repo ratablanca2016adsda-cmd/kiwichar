@@ -255,3 +255,36 @@
 [20:59:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk lost connection: Disconnected
 [20:59:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was unloaded
 [20:59:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk left the game
+[21:03:37] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player GevaudanBk is d3063df8-c0e9-37f8-9776-6b25b732966b
+[21:03:37] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:03:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GevaudanBk[/127.229.102.35:49093] logged in with entity id 1,247 at (-123.763, 81, 214.978)
+[21:03:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was loaded
+[21:03:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:03:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:07:48] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player whisenv is 0d48582c-9470-3083-9d13-39a81c5c22ba
+[21:07:48] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:07:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: whisenv[/127.43.41.230:48177] logged in with entity id 1,382 at (-123.5, 80, 223.5)
+[21:07:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0d48582c-9470-3083-9d13-39a81c5c22ba was loaded
+[21:07:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [whisenv]
+[21:07:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [whisenv]
+[21:10:09] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player GevaudanBk is d3063df8-c0e9-37f8-9776-6b25b732966b
+[21:10:09] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:10:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk lost connection: You logged in from another location
+[21:10:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was unloaded
+[21:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk left the game
+[21:10:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GevaudanBk[/127.229.102.35:46927] logged in with entity id 1,439 at (125.233, 86, 47.499)
+[21:10:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was loaded
+[21:10:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:10:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Brute using Suplex
+[21:10:24] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:10:24] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Brute using Charged Cleave
+[21:10:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:10:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:11:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: whisenv lost connection: Disconnected
+[21:11:06] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0d48582c-9470-3083-9d13-39a81c5c22ba was unloaded
+[21:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whisenv left the game
+[21:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Brute using Charged Cleave
+[21:11:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:11:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]

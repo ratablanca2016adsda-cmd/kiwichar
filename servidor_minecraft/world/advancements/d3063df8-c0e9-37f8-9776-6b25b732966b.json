@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-10-05 21:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-10-05 19:56:19 +0000"
@@ -553,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-10-05 19:56:02 +0000"
@@ -773,6 +785,12 @@
   "smallships:recipes/lotr_beech_brigg": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
     },
     "done": true
   },
@@ -1721,6 +1739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
@@ -1760,6 +1784,12 @@
   "chisel:recipes/chisel/futura/controller_purple": {
     "criteria": {
       "has_redstone": "2025-10-05 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
     },
     "done": true
   },
@@ -2496,6 +2526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-10-05 21:05:22 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_dhow": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
@@ -2577,6 +2613,12 @@
   "smallships:recipes/envi_willow_galley": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-10-05 21:07:10 +0000"
     },
     "done": true
   },
@@ -2697,6 +2739,12 @@
   "chisel:recipes/chisel/futura/screen_cyan": {
     "criteria": {
       "has_redstone": "2025-10-05 19:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
     },
     "done": true
   },
@@ -2845,6 +2893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 19:56:44 +0000"
@@ -2872,6 +2926,12 @@
   "smallships:recipes/lotr_pine_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
     },
     "done": true
   },
@@ -2908,6 +2968,12 @@
   "smallships:recipes/lotr_cherry_cog": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:07:10 +0000"
     },
     "done": true
   },

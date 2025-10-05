@@ -1,0 +1,18 @@
+{
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-10-05 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-10-05 21:07:50 +0000",
+      "minecraft:taiga": "2025-10-05 21:11:01 +0000",
+      "minecraft:beach": "2025-10-05 21:10:14 +0000",
+      "minecraft:wooded_hills": "2025-10-05 21:09:57 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
