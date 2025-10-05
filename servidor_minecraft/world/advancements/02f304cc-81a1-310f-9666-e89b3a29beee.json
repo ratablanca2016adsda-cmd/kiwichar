@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-10-05 21:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-10-05 21:22:55 +0000"
@@ -1052,6 +1058,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-10-05 21:55:46 +0000",
       "minecraft:forest": "2025-10-05 21:12:10 +0000",
       "minecraft:mountains": "2025-10-05 21:21:45 +0000",
       "minecraft:taiga": "2025-10-05 21:29:09 +0000",
@@ -1224,6 +1231,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-10-05 21:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-10-05 21:22:52 +0000"
@@ -1239,6 +1252,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-10-05 21:55:18 +0000"
     },
     "done": true
   },
@@ -1293,6 +1312,12 @@
   "smallships:recipes/lotr_cedar_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-10-05 21:55:22 +0000"
     },
     "done": true
   },
@@ -1427,7 +1452,8 @@
       "cooked_porkchop": "2025-10-05 21:28:04 +0000",
       "cooked_mutton": "2025-10-05 21:26:30 +0000",
       "cooked_beef": "2025-10-05 21:29:15 +0000",
-      "porkchop": "2025-10-05 21:22:45 +0000"
+      "porkchop": "2025-10-05 21:22:45 +0000",
+      "beetroot": "2025-10-05 21:52:44 +0000"
     },
     "done": false
   },
@@ -1533,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-10-05 21:55:22 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_hellbark_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1608,6 +1640,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-10-05 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-10-05 21:55:18 +0000"
     },
     "done": true
   },
@@ -1873,6 +1911,12 @@
   "smallships:recipes/lotr_lairelosse_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-10-05 21:55:22 +0000"
     },
     "done": true
   },

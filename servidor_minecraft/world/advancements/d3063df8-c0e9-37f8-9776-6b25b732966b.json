@@ -439,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-10-05 22:01:47 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_dead_dhow": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
@@ -2481,6 +2487,12 @@
   "smallships:recipes/bop_umbran_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/ultra_cola": {
+    "criteria": {
+      "has_cola": "2025-10-05 22:00:09 +0000"
     },
     "done": true
   },

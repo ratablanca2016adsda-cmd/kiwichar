@@ -361,3 +361,36 @@
 [21:51:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Charged Cleave
 [21:52:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
 [21:52:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[21:54:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias
+[21:54:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Matias]
+[21:56:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was doomed to fall
+[21:56:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[21:56:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[21:56:49] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player GevaudanBk is d3063df8-c0e9-37f8-9776-6b25b732966b
+[21:56:49] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:56:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GevaudanBk[/127.229.102.35:50817] logged in with entity id 3,999 at (72.678, 72, 32.257)
+[21:56:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was loaded
+[21:56:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:56:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:57:09] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sero is 8cae250b-7a60-3eb3-b16a-903d129eecd4
+[21:57:09] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:57:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sero[/127.66.243.34:43041] logged in with entity id 4,084 at (-97.386, 70, 156.448)
+[21:57:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8cae250b-7a60-3eb3-b16a-903d129eecd4 was loaded
+[21:57:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[21:57:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[21:58:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Matias
+[21:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Matias]
+[21:58:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias
+[21:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Matias]
+[21:58:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
+[21:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
+[21:59:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Charged Cleave
+[21:59:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[21:59:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:00:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
+[22:00:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[22:00:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
+[22:01:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk has made the advancement [Suit Up]
+[22:02:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Brute
+[22:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[22:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
