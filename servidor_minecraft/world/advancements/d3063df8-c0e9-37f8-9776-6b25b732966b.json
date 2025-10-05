@@ -355,7 +355,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_pirate_ship": "2025-10-05 19:53:57 +0000"
+      "entered_pirate_ship": "2025-10-05 19:53:57 +0000",
+      "entered_fishing_ship": "2025-10-05 20:16:29 +0000"
     },
     "done": false
   },

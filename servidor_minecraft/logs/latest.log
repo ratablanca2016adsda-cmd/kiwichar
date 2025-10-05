@@ -437,3 +437,50 @@
 [20:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
 [20:09:37] [Async Chat Thread - 10/INFO] [/]: <DarkKnight124> cuantos cofres vas ?
 [20:09:58] [Async Chat Thread - 10/INFO] [/]: <GevaudanBk> Ni uno
+[20:10:02] [Async Chat Thread - 10/INFO] [/]: <GevaudanBk> Me salio la chiyu
+[20:10:06] [Async Chat Thread - 10/INFO] [/]: <DarkKnight124> tremendo
+[20:10:18] [Async Chat Thread - 10/INFO] [/]: <DarkKnight124> esa fruta es para curar nomas
+[20:10:34] [Async Chat Thread - 10/INFO] [/]: <DarkKnight124> pero a los demas no a ti
+[20:10:41] [Async Chat Thread - 10/INFO] [/]: <GevaudanBk> Ahora me salio la de girafa
+[20:11:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
+[20:11:04] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[20:11:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
+[20:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was slain by Pirate Grunt
+[20:15:04] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[20:15:04] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[20:15:47] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[20:15:47] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 23 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[20:15:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:57199] logged in with entity id 6,472 at (674.7, 65, 694.003)
+[20:15:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[20:15:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[20:15:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[20:16:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[20:16:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[20:17:04] [Async Chat Thread - 11/INFO] [/]: <GevaudanBk> Vente
+[20:17:32] [Async Chat Thread - 11/INFO] [/]: <GevaudanBk> Tienen haki
+[20:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Brute using Charged Cleave
+[20:17:47] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[20:17:47] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[20:18:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk DarkKnight124
+[20:18:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to DarkKnight124]
+[20:18:16] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player whisenv is 0d48582c-9470-3083-9d13-39a81c5c22ba
+[20:18:16] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 23 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[20:18:18] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7661dac7[id=0d48582c-9470-3083-9d13-39a81c5c22ba,name=whisenv,properties={},legacy=false] (/127.43.41.230:54157) lost connection: Disconnected
+[20:18:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Captain
+[20:18:21] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[20:18:21] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[20:18:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain
+[20:18:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[20:18:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[20:18:40] [Async Chat Thread - 12/INFO] [/]: <DarkKnight124> hay
+[20:18:45] [Async Chat Thread - 12/INFO] [/]: <GevaudanBk> El doriki se reinicia al morir?
+[20:18:54] [Async Chat Thread - 12/INFO] [/]: <DarkKnight124> si
+[20:19:02] [Async Chat Thread - 12/INFO] [/]: <DarkKnight124> pero puedo modificarlo si queres
+[20:19:09] [Async Chat Thread - 12/INFO] [/]: <GevaudanBk> a
+[20:19:21] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/6472, l='ServerLevel[world]', x=118.50, y=82.00, z=31.50](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 118.5,82.0,31.5) left loaded chunk area
+[20:19:36] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [mineminenomi:main_channel,structure_gel:main,parcool:message,curios:main,cosmeticarmorreworked:main,customnpcs:packets,creativecore:main,chisel:main,waystones:network] rejected vanilla connections
+[20:19:36] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[20:19:47] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/6472, l='ServerLevel[world]', x=-1579.50, y=36.00, z=-332.50](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -1579.5,36.0,-332.5) left loaded chunk area
+[20:19:50] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [mineminenomi:main_channel,structure_gel:main,parcool:message,curios:main,cosmeticarmorreworked:main,customnpcs:packets,creativecore:main,chisel:main,waystones:network] rejected vanilla connections
+[20:19:50] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[20:20:01] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/6472, l='ServerLevel[world]', x=457.50, y=67.00, z=328.50](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 457.5,67.0,328.5) left loaded chunk area
