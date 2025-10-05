@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_green_oak_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-10-04 22:09:41 +0000"
@@ -194,6 +206,12 @@
   "smallships:recipes/lotr_pine_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 15:09:12 +0000"
@@ -374,6 +398,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2025-10-04 21:55:22 +0000",
+      "entered_pirate_ship": "2025-10-05 19:53:38 +0000",
       "entered_witch_tower": "2025-10-04 22:39:28 +0000"
     },
     "done": false
@@ -504,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-05 19:50:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-10-04 15:45:46 +0000"
@@ -612,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -620,7 +657,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-10-04 20:24:42 +0000"
+      "minecraft:pillager": "2025-10-05 19:53:42 +0000",
+      "minecraft:vindicator": "2025-10-05 19:53:42 +0000",
+      "minecraft:evoker": "2025-10-05 19:56:10 +0000",
+      "minecraft:vex": "2025-10-05 19:56:00 +0000",
+      "minecraft:zombie": "2025-10-04 20:24:42 +0000",
+      "minecraft:drowned": "2025-10-05 19:54:19 +0000"
     },
     "done": false
   },
@@ -705,6 +747,12 @@
   "mineminenomi:recipes/misc/cannon": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
     },
     "done": true
   },
@@ -906,6 +954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1038,6 +1092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_hellbark_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1152,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1179,6 +1245,12 @@
   "smallships:recipes/lotr_green_oak_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-10-05 19:55:46 +0000"
     },
     "done": true
   },
@@ -1460,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-10-04 15:49:29 +0000"
@@ -1589,6 +1667,12 @@
   "smallships:recipes/envi_wisteria_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-10-05 19:55:46 +0000"
     },
     "done": true
   },
@@ -1754,7 +1838,8 @@
       "beef": "2025-10-04 22:55:15 +0000",
       "mutton": "2025-10-04 22:32:30 +0000",
       "cookie": "2025-10-04 22:14:37 +0000",
-      "rotten_flesh": "2025-10-04 22:21:08 +0000"
+      "rotten_flesh": "2025-10-04 22:21:08 +0000",
+      "salmon": "2025-10-05 19:59:05 +0000"
     },
     "done": false
   },
@@ -1838,6 +1923,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pear_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1895,6 +1986,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-10-05 19:55:46 +0000"
     },
     "done": true
   },
@@ -2015,6 +2112,12 @@
   "mineminenomi:recipes/weapons/pipe": {
     "criteria": {
       "has_iron": "2025-10-05 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-10-05 19:53:38 +0000"
     },
     "done": true
   },
@@ -2163,6 +2266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2223,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2268,6 +2383,12 @@
   "chisel:recipes/chisel/auto_chisel": {
     "criteria": {
       "has_iron": "2025-10-05 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-10-05 19:54:42 +0000"
     },
     "done": true
   },
@@ -2418,6 +2539,12 @@
   "farmersdelight:recipes/food/cake_from_milk_bottle": {
     "criteria": {
       "has_milk_bottle": "2025-10-04 22:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-10-05 19:55:46 +0000"
     },
     "done": true
   },
@@ -2673,6 +2800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-10-04 20:51:11 +0000"
@@ -2772,6 +2905,12 @@
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
     },
     "done": true
   },
@@ -3012,6 +3151,12 @@
   "smallships:recipes/lotr_pear_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-10-05 19:54:42 +0000"
     },
     "done": true
   },
