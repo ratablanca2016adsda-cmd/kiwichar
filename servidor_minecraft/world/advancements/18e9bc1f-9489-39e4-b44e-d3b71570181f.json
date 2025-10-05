@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-10-05 20:25:45 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lebethron_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -398,6 +404,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2025-10-04 21:55:22 +0000",
+      "entered_flying_dutchman": "2025-10-05 20:25:06 +0000",
       "entered_pirate_ship": "2025-10-05 19:53:38 +0000",
       "entered_fishing_ship": "2025-10-05 20:16:26 +0000",
       "entered_witch_tower": "2025-10-04 22:39:28 +0000"
@@ -515,6 +522,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-10-04 20:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
     },
     "done": true
   },
@@ -650,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -659,6 +678,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-10-05 19:53:42 +0000",
+      "minecraft:skeleton": "2025-10-05 20:25:44 +0000",
       "minecraft:vindicator": "2025-10-05 19:53:42 +0000",
       "minecraft:evoker": "2025-10-05 19:56:10 +0000",
       "minecraft:vex": "2025-10-05 19:56:00 +0000",
@@ -1111,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-10-05 20:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-10-04 20:24:43 +0000"
@@ -1479,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_wisteria_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1719,6 +1751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 15:49:51 +0000"
@@ -1761,9 +1799,21 @@
     },
     "done": true
   },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2025-10-05 20:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
     },
     "done": true
   },
@@ -2056,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_cherry_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2327,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_redwood_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2336,6 +2398,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-10-05 19:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
     },
     "done": true
   },
@@ -2441,6 +2509,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-05 20:25:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_wisteria_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2450,6 +2524,12 @@
   "smallships:recipes/bop_dead_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
     },
     "done": true
   },
@@ -2558,6 +2638,12 @@
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-10-04 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
     },
     "done": true
   },
@@ -2975,6 +3061,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -3164,6 +3256,12 @@
   "smallships:recipes/envi_cherry_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-10-05 20:25:50 +0000"
     },
     "done": true
   },
