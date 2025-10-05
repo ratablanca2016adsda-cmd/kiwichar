@@ -2,7 +2,7 @@
 [General]
 	#Allows non-OP users to use /check_fruits command. Note that this is only for the listing of fruits, the history subcommand with all of its functionality will not be affected by this config.
 	#Default: false
-	"Public /check_fruits" = false
+	"Public /check_fruits" = true
 	#Multiplies any haki gained from non-player kills by this amount (commands not included)
 	#Default: 1
 	#Range: 0.0 ~ 10.0
@@ -36,7 +36,7 @@
 	#Guarantees a minimum of 1 doriki per kill
 	# If used together with a Haki Exp Multiplier with a multiplier less than <1.0 it will convert it to chances
 	#Default: false
-	"Minimum Doriki per Kill" = false
+	"Minimum Doriki per Kill" = true
 	#Allows non-OP users to use /removedf command ON THEMSELVES! 
 	#Default: false
 	"Public /removedf" = false
@@ -118,7 +118,7 @@
 	#Number of ability bars;
 	#Default: 2
 	#Range: 1 ~ 10
-	"Ability Bars" = 2
+	"Ability Bars" = 3
 	#Enables the shared cooldown between similar abilities
 	#Default: true
 	"Shared Cooldowns" = true
