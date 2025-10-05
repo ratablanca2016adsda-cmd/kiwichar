@@ -313,3 +313,18 @@
 [21:17:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was unloaded
 [21:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk left the game
 [21:18:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias has made the advancement [Sweet Dreams]
+[21:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias has made the advancement [Stone Age]
+[21:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias has made the advancement [Getting an Upgrade]
+[21:28:41] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[21:28:41] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 23 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:28:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:45685] logged in with entity id 2,002 at (911.562, 69, 12.521)
+[21:28:47] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[21:28:47] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[21:28:47] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[21:29:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias DarkKnight124
+[21:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to DarkKnight124]
+[21:29:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 1000
+[21:29:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +1000 doriki for DarkKnight124]
+[21:32:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
+[21:32:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[21:32:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game

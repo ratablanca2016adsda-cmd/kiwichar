@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-10-05 21:31:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1904,6 +1910,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-10-04 21:54:26 +0000",
+      "cooked_beef": "2025-10-05 21:28:54 +0000",
       "beef": "2025-10-04 22:55:15 +0000",
       "mutton": "2025-10-04 22:32:30 +0000",
       "cookie": "2025-10-04 22:14:37 +0000",
