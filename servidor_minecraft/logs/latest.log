@@ -404,3 +404,36 @@
 [19:58:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk DarkKnight124
 [19:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to DarkKnight124]
 [19:59:37] [Async Chat Thread - 8/INFO] [/]: <GevaudanBk> alla
+[20:02:02] [Async Chat Thread - 9/INFO] [/]: <DarkKnight124> cofre de madera
+[20:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Pirate Captain using Jishin Ho
+[20:02:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[20:02:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[20:02:20] [Async Chat Thread - 9/INFO] [/]: <GevaudanBk> tp
+[20:02:26] [Async Chat Thread - 9/INFO] [/]: <DarkKnight124> espera
+[20:02:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk DarkKnight124
+[20:02:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to DarkKnight124]
+[20:03:21] [Async Chat Thread - 9/INFO] [/]: <DarkKnight124> lo agarraste ?
+[20:03:25] [Async Chat Thread - 9/INFO] [/]: <GevaudanBk> se
+[20:03:28] [Async Chat Thread - 9/INFO] [/]: <DarkKnight124> ok
+[20:03:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
+[20:03:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[20:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
+[20:05:40] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[20:05:40] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 23 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[20:05:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:49417] logged in with entity id 5,735 at (441.341, 64, 623.842)
+[20:05:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[20:05:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[20:05:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[20:06:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
+[20:06:19] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[20:06:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
+[20:08:16] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[20:08:16] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 23 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[20:08:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:49239] logged in with entity id 6,178 at (442.926, 64, 619.19)
+[20:08:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[20:08:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[20:08:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[20:08:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[20:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[20:09:37] [Async Chat Thread - 10/INFO] [/]: <DarkKnight124> cuantos cofres vas ?
+[20:09:58] [Async Chat Thread - 10/INFO] [/]: <GevaudanBk> Ni uno
