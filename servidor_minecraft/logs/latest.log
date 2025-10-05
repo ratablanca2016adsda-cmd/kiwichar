@@ -288,3 +288,28 @@
 [21:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Brute using Charged Cleave
 [21:11:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
 [21:11:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:12:07] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matias is 02f304cc-81a1-310f-9666-e89b3a29beee
+[21:12:07] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:12:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matias[/127.43.41.230:34941] logged in with entity id 1,540 at (-124.5, 81, 216.5)
+[21:12:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was loaded
+[21:12:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[21:12:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[21:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Brute using Charged Cleave
+[21:14:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:14:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Grunt
+[21:15:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:15:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:16:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk lost connection: Disconnected
+[21:16:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was unloaded
+[21:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk left the game
+[21:17:02] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player GevaudanBk is d3063df8-c0e9-37f8-9776-6b25b732966b
+[21:17:02] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[21:17:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GevaudanBk[/127.229.102.35:55575] logged in with entity id 1,679 at (107.708, 65, 38.488)
+[21:17:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was loaded
+[21:17:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[21:17:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[21:17:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk lost connection: Disconnected
+[21:17:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was unloaded
+[21:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk left the game
+[21:18:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias has made the advancement [Sweet Dreams]

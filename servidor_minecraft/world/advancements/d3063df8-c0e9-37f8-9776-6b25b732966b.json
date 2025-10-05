@@ -565,6 +565,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-10-05 21:12:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-10-05 19:56:02 +0000"
@@ -1718,6 +1724,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-10-05 21:13:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_cog": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
@@ -2412,6 +2424,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-10-05 21:12:55 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_cog": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
@@ -2818,6 +2836,12 @@
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-10-05 21:13:12 +0000"
     },
     "done": true
   },
