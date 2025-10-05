@@ -1101,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-10-05 22:20:53 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/acacia_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1490,6 +1496,12 @@
   "smallships:recipes/envi_willow_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-05 22:16:38 +0000"
     },
     "done": true
   },
@@ -1916,6 +1928,12 @@
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-10-05 22:16:38 +0000"
     },
     "done": true
   },
@@ -2534,6 +2552,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-05 22:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-04 22:50:43 +0000"
@@ -2969,6 +2993,12 @@
   "smallships:recipes/bop_dead_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-05 22:20:53 +0000"
     },
     "done": true
   },

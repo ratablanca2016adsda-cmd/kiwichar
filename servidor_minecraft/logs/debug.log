@@ -17281,3 +17281,57 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [22:12:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
 [22:12:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
 [22:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
+[22:13:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[22:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[22:17:23] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22:17:23] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22:17:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[22:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[22:17:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:17:52] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:17:52] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:18:28] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:18:28] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:18:28] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:18:31] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:18:32] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:18:32] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 806
+[22:18:33] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 829
+[22:18:34] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 845
+[22:18:36] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Tetsu Boshi at tick 888
+[22:18:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Sniper
+[22:18:36] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Busoshoku Haki: Imbuing at tick 895
+[22:18:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[22:18:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:19:34] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:19:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:19:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:20:55] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:20:56] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:20:56] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:21:00] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:21:00] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:21:00] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 1707
+[22:21:00] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 1723
+[22:21:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:21:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 1729
+[22:21:03] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Tetsu Boshi at tick 1767
+[22:21:03] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:21:03] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Tetsu Boshi at tick 1766
+[22:21:03] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 1782
+[22:21:04] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Melee Phase
+[22:21:04] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:21:04] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 1790
+[22:21:05] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[22:21:05] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Tetsu Boshi at tick 1810
+[22:21:07] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 1845
+[22:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Sniper
+[22:21:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[22:21:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:21:30] [Async Chat Thread - 2/INFO] [/]: <Matias> T'
+[22:21:32] [Async Chat Thread - 2/INFO] [/]: <Matias> TP
+[22:22:24] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22:22:24] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22:22:24] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias moved too quickly! -10.285,1.228,0.211
+[22:22:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias GevaudanBk
+[22:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to GevaudanBk]

@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-10-05 22:15:27 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1453,6 +1459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-10-05 22:14:07 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
@@ -1465,6 +1477,7 @@
       "cooked_mutton": "2025-10-05 21:26:30 +0000",
       "cooked_beef": "2025-10-05 21:29:15 +0000",
       "porkchop": "2025-10-05 21:22:45 +0000",
+      "bread": "2025-10-05 22:13:01 +0000",
       "beetroot": "2025-10-05 21:52:44 +0000"
     },
     "done": false
@@ -2049,6 +2062,12 @@
   "smallships:recipes/lotr_pine_cog": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-10-05 22:14:07 +0000"
     },
     "done": true
   },
