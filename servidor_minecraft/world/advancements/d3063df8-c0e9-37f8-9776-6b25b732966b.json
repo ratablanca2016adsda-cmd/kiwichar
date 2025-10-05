@@ -604,6 +604,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-10-05 22:32:37 +0000",
       "minecraft:zombie": "2025-10-05 22:31:24 +0000"
     },
     "done": false
@@ -665,6 +666,12 @@
   "smallships:recipes/lotr_cypress_galley": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-10-05 22:42:14 +0000"
     },
     "done": true
   },
@@ -1515,6 +1522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-10-05 22:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-10-05 19:31:47 +0000"
@@ -1817,7 +1830,8 @@
       "bread": "2025-10-05 20:58:11 +0000",
       "cookie": "2025-10-05 22:11:30 +0000",
       "cooked_chicken": "2025-10-05 22:06:57 +0000",
-      "mushroom_stew": "2025-10-05 20:59:19 +0000"
+      "mushroom_stew": "2025-10-05 20:59:19 +0000",
+      "rabbit_stew": "2025-10-05 22:36:04 +0000"
     },
     "done": false
   },
@@ -1999,6 +2013,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-10-05 19:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-10-05 22:42:14 +0000"
     },
     "done": true
   },
@@ -2677,6 +2697,12 @@
   "smallships:recipes/bop_fir_cog": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-10-05 22:42:14 +0000"
     },
     "done": true
   },

@@ -458,3 +458,50 @@
 [22:30:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero has made the advancement [Monster Hunter]
 [22:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk has made the advancement [Monster Hunter]
 [22:33:10] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias moved wrongly!
+[22:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Sniper
+[22:33:19] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[22:33:19] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:34:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias GevaudanBk
+[22:34:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to GevaudanBk]
+[22:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias has made the advancement [Forgotten Wars and Kingdoms]
+[22:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was slain by Zombie
+[22:34:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[22:34:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[22:34:52] [Async Chat Thread - 3/INFO] [/]: <GevaudanBk> [name:"Trainer", x:661, y:74, z:-271, dim:minecraft:overworld]
+[22:35:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
+[22:35:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
+[22:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias has made the advancement [Diamonds!]
+[22:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Pirate Brute using Busoshoku Haki: Hardening
+[22:35:57] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[22:35:57] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[22:36:27] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/6986, l='ServerLevel[world]', x=840.50, y=68.00, z=-1664.50](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 840.5,68.0,-1664.5) left loaded chunk area
+[22:36:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was slain by Zombie
+[22:36:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[22:36:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[22:37:24] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved too quickly! 8.608,2.818,5.905
+[22:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Zombie
+[22:38:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[22:38:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[22:40:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk lost connection: Disconnected
+[22:40:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was unloaded
+[22:40:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk left the game
+[22:40:57] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO challenge.
+[22:41:02] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player GevaudanBk is d3063df8-c0e9-37f8-9776-6b25b732966b
+[22:41:03] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 25 mods : minecraft, farmersdelight, ccam, mineminenomi, customnpcs, creativecore, chisel, rpghud, jei, dungeons_enhanced, smallships, eopaddon, forge, curios, cartaddon, cosmeticarmorreworked, tlskincape, waystones, moreplayermodels, structure_gel, journeymap, ctm, travelersbackpack, parcool, hakibar
+[22:41:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GevaudanBk[/127.229.102.35:55627] logged in with entity id 10,550 at (661.715, 75, -309.337)
+[22:41:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was loaded
+[22:41:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[22:41:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[22:41:21] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO challenge.
+[22:41:21] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[22:41:46] [Server thread/INFO] [journeymap/]: mineminenomi~challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f (Initialized) Setting config file to version "5.8.6": journeymap.server.mineminenomi~challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f.config
+[22:41:46] [Server thread/INFO] [journeymap/]: mineminenomi~challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.mineminenomi~challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f.config
+[22:41:47] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[22:41:47] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[22:42:28] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[22:42:28] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[22:42:29] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[22:42:29] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[22:42:54] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO challenge.
+[22:43:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[22:43:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
