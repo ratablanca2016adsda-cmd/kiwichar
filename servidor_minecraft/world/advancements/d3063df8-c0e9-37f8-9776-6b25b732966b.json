@@ -1245,6 +1245,7 @@
       "minecraft:forest": "2025-10-05 19:19:11 +0000",
       "minecraft:mountains": "2025-10-05 19:31:31 +0000",
       "minecraft:taiga": "2025-10-05 19:30:54 +0000",
+      "minecraft:deep_cold_ocean": "2025-10-05 20:57:09 +0000",
       "minecraft:deep_frozen_ocean": "2025-10-05 19:48:26 +0000",
       "minecraft:beach": "2025-10-05 20:00:18 +0000",
       "minecraft:river": "2025-10-05 19:47:55 +0000",
@@ -1276,6 +1277,12 @@
   "smallships:recipes/envi_willow_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-05 20:59:19 +0000"
     },
     "done": true
   },
@@ -1702,7 +1709,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-10-05 19:39:56 +0000",
-      "cooked_beef": "2025-10-05 19:50:15 +0000"
+      "cooked_beef": "2025-10-05 19:50:15 +0000",
+      "bread": "2025-10-05 20:58:11 +0000",
+      "mushroom_stew": "2025-10-05 20:59:19 +0000"
     },
     "done": false
   },
@@ -2277,6 +2286,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-05 20:59:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_war_galley": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
@@ -2322,6 +2337,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-10-05 20:59:19 +0000"
     },
     "done": true
   },
