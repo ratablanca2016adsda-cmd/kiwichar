@@ -287,3 +287,52 @@
 [01:06:27] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
 [01:06:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
 [01:06:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Vice Admiral Bequel
+[01:07:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[01:07:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[01:09:13] [Async Chat Thread - 2/INFO] [/]: <Sero> [name:"Posible casa", x:313, y:78, z:-489, dim:minecraft:overworld]
+[01:09:59] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
+[01:10:03] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk moved too quickly! -11.959,0.078,-8.723
+[01:10:03] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved too quickly! -3.173,-2.29,-9.289
+[01:10:31] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:10:31] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:10:51] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
+[01:10:51] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[01:10:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:10:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:11:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[01:11:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[01:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Charged Punch
+[01:12:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:12:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:12:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[01:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[01:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Grunt
+[01:12:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[01:12:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[01:12:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /spawnpoint DarkKnight124
+[01:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set spawn point to 102, 103, -641 [0.0] in minecraft:overworld for DarkKnight124]
+[01:13:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[01:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[01:13:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Sero
+[01:13:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Sero]
+[01:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Whirling Mace
+[01:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Whirling Mace
+[01:14:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[01:14:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[01:14:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[01:14:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[01:14:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
+[01:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
+[01:14:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Sero
+[01:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Sero]
+[01:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Whirling Mace
+[01:14:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[01:14:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[01:14:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
+[01:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
+[01:15:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Marine Captain using Suplex
+[01:15:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[01:15:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[01:16:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[01:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
