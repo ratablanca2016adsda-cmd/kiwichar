@@ -1,751 +1,285 @@
-[00:46:09] [main/INFO] [STDOUT/]: Update in check...
-[00:46:09] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
-[00:46:10] [main/INFO] [STDOUT/]: [!] Can't connect to the ci to check updates or unable to download the update.
-[00:46:10] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
-[00:46:10] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 11.0.28 by Ubuntu
-[00:46:11] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[00:46:12] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/mine_mine_repository/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[00:46:12] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /workspaces/mine_mine_repository/servidor_minecraft/mods/voicechat-fabric-1.16.5-2.6.4.jar is missing mods.toml file
-[00:46:12] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /workspaces/mine_mine_repository/servidor_minecraft/mods/voicechat-fabric-1.16.5-2.6.4.jar has been ignored - it is invalid
-[00:46:14] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[00:46:14] [main/WARN] [mixin/]: Reference map 'MineMineNoMiAddonTemplate.refmap.json' for eopaddon.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:46:14] [main/WARN] [mixin/]: Reference map 'CartAddon.refmap.json' for cartaddon.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:46:15] [main/WARN] [mixin/]: Error loading class: org/valkyrienskies/core/util/assertions/stages/TickStageEnforcerImpl (java.lang.ClassNotFoundException: null)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target org.valkyrienskies.core.util.assertions.stages.TickStageEnforcerImpl was not found mine-mine-no-mi.mixins.json:valkyrienskies.TickStageEnforcerImplMixin
-[00:46:15] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/AbstractClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.AbstractClientPlayerEntity was not found moreplayermodels.mixins.json:AbstractClientPlayerEntityMixin
-[00:46:15] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/ActiveRenderInfo (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.ActiveRenderInfo was not found moreplayermodels.mixins.json:ActiveRenderInfoMixin
-[00:46:15] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/layers/BipedArmorLayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.layers.BipedArmorLayer was not found moreplayermodels.mixins.json:ArmorLayerMixin
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/model/BipedModel (java.lang.ClassNotFoundException: null)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.model.BipedModel was not found moreplayermodels.mixins.json:BipedBodyMixin
-[00:46:15] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/LivingRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.LivingRenderer was not found moreplayermodels.mixins.json:LivingRendererMixin
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/model/ModelRenderer (java.lang.ClassNotFoundException: null)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.model.ModelRenderer was not found moreplayermodels.mixins.json:ModelRendererMixin
-[00:46:15] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleManager (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleManager was not found moreplayermodels.mixins.json:ParticleManagerMixin
-[00:46:15] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER
-[00:46:15] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PlayerRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER)
-[00:46:15] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PlayerRenderer was not found moreplayermodels.mixins.json:PlayerRendererMixin
-[00:46:26] [modloading-worker-2/INFO] [team.chisel.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field GASU_GASU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field YUKI_YUKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field HIE_HIE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field JIKI_JIKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field MOKU_MOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field PIKA_PIKA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field HITO_HITO_NO_MI_DAIBUTSU:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field KIRA_KIRA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field DOKU_DOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field GURA_GURA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field MAGU_MAGU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field TORI_TORI_NO_MI_PHOENIX:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field GORO_GORO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field GOE_GOE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field CHIYU_CHIYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field NIKYU_NIKYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field SUNA_SUNA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_PTERANODON:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field MINI_MINI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field OTO_OTO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field SARA_SARA_NO_MI_AXOLOTL:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field OPE_OPE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-3/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_BRACHIOSAURUS:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
-[00:46:26] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[00:46:26] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[00:46:26] [modloading-worker-0/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon constructed
-[00:46:26] [modloading-worker-1/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.change_character
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
-[00:46:29] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
-[00:46:32] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[00:46:32] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[00:46:33] [main/INFO] [com.barion.dungeons_enhanced.DungeonsEnhanced/]: Dungeons Enhanced structures loaded
-[00:46:33] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
-[00:46:34] [modloading-worker-2/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
-[00:46:34] [modloading-worker-0/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon common setup complete
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@4d3155d2' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@21c6d496' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7074b1a1' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@32013af1' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@669e9ab9' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@4d3155d2' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@21c6d496' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7074b1a1' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@32013af1' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@669e9ab9' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@4d3155d2' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@21c6d496' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7074b1a1' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@32013af1' to registry
-[00:46:34] [modloading-worker-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@669e9ab9' to registry
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC Permissions available:
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
-[00:46:35] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
-[00:46:35] [main/INFO] [journeymap/]: Initializing Packet Registries
-[00:46:35] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
-[00:46:35] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
-[00:46:35] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
-[00:46:35] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:thunder_plains to structure_gel:[]
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:sabaody to structure_gel:[]
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:drum to structure_gel:[]
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:castle
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_temple
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_tomb
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:druid_circle
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:dungeon_variant
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:elders_temple
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:fishing_ship
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:flying_dutchman
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:hay_storage
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ice_pit
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:jungle_monument
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:large_dungeon
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:miners_house
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:monster_maze
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:mushroom_house
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pillager_camp
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pirate_ship
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ruined_building
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:stables
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:sunken_shrine
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tall_witch_hut
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tree_house
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tower_of_the_undead
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:watch_tower
-[00:46:35] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:witch_tower
-[00:46:37] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: Mods loaded with 1 warnings
-[00:46:37] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: File voicechat-fabric-1.16.5-2.6.4.jar is a Fabric mod and cannot be loaded
-[00:46:37] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 9 outside of range [0:7]
-[00:46:38] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:46:39] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-8c7caaf7-universal.jar, bukkit, FarmersDelight-1.16.5-0.6.0.jar, ColtCosmeticArmorMod-1.2.5.jar, mine-mine-no-mi-1.16.5-0.10.7.jar, CustomNPCs-1.16.5.20220515.jar, CreativeCore_v2.2.1_mc1.16.5.jar, Chisel-Mod-1.16.5.jar, dungeons_enhanced-1.16.5-1.9.2.jar, smallships-1.16.5-2.0.0-Alpha-0.4.jar, EoPAddon-0.3.jar, curios-forge-1.16.5-4.1.0.0.jar, cartaddon-0.7.11.jar, CosmeticArmorReworked-1.16.5-v5a.jar, Waystones_1.16.5-7.6.4.jar, MorePlayerModels-1.16.5.20220731.jar, structure_gel-1.16.5-1.7.8.jar, journeymap-1.16.5-5.8.6.jar, CTM-MC1.16.1-1.1.2.6.jar, TravelersBackpack-1.16.5-5.4.51.jar, ParCool-1.16.5-3.4.1.5.jar, hakibar-1.16.5-1.8.jar, worldedit-mod-7.2.5-dist.jar, architectury-1.32.68.jar, minecraft-comes-alive-7.3.23+1.16.5-universal (1).jar
-[00:46:41] [Worker-Main-6/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[00:46:43] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,749 recipes
-[00:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[00:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[00:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[00:46:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[00:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
-[00:46:47] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[00:46:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:46:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[00:46:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:46:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:46:47] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-8c7caaf7 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
-[00:46:49] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[00:46:49] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
-[00:46:49] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[00:46:50] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
-[00:46:50] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[00:46:50] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[00:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[00:46:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[00:46:54] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[00:46:55] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 40%
-[00:46:55] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4,216 ms
-[00:46:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
-[00:46:57] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[00:46:57] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
-[00:47:01] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
-[00:47:01] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
-[00:47:02] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
-[00:47:02] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6,936 ms
-[00:47:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
-[00:47:03] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[00:47:03] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
-[00:47:03] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
-[00:47:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,348 ms
-[00:47:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges
-[00:47:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[00:47:04] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
-[00:47:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 659 ms
-[00:47:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f
-[00:47:04] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[00:47:05] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 56%
-[00:47:05] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 695 ms
-[00:47:05] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[00:47:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.756s)! For help, type "help"
-[00:47:06] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@135a7bfe]
-[00:47:07] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[00:56:38] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[00:56:38] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[00:56:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:32805] logged in with entity id 127 at (-338.436, 63, -876.587)
-[00:56:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[00:56:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[00:56:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[00:57:45] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SNAKE challenge.
-[00:57:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[00:57:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[00:58:08] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
-[00:58:09] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[00:58:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[00:58:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[00:59:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 2000
-[00:59:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +2000 doriki for DarkKnight124]
-[01:00:24] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sero is 8cae250b-7a60-3eb3-b16a-903d129eecd4
-[01:00:24] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
-[01:00:24] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SNAKE challenge.
-[01:00:28] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! -9.974,0,-1.205
-[01:00:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:00:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:00:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sero[/127.66.243.34:50549] logged in with entity id 376 at (174.561, 62, -343.793)
-[01:00:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8cae250b-7a60-3eb3-b16a-903d129eecd4 was loaded
-[01:00:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:00:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:00:55] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
-[01:00:55] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[01:00:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:00:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:01:35] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO challenge.
-[01:01:55] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player GevaudanBk is d3063df8-c0e9-37f8-9776-6b25b732966b
-[01:01:55] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
-[01:01:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GevaudanBk[/127.229.102.35:60383] logged in with entity id 1,026 at (-68.3, 105.753, -753.3)
-[01:01:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was loaded
-[01:01:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:01:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:02:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:02:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Marine Grunt
-[01:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:02:49] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
-[01:02:49] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[01:02:49] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[01:02:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:02:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:03:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
-[01:03:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /op GevaudanBk
-[01:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk a server operator]
-[01:03:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
-[01:04:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /deop GevaudanBk
-[01:04:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk no longer a server operator]
-[01:04:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
-[01:04:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
-[01:04:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /op GevaudanBk
-[01:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk a server operator]
-[01:04:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
-[01:05:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /deop GevaudanBk
-[01:05:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk no longer a server operator]
-[01:05:37] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
-[01:06:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:06:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:06:27] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
-[01:06:27] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[01:06:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:06:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Vice Admiral Bequel
-[01:07:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:07:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:09:13] [Async Chat Thread - 2/INFO] [/]: <Sero> [name:"Posible casa", x:313, y:78, z:-489, dim:minecraft:overworld]
-[01:09:59] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
-[01:10:03] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk moved too quickly! -11.959,0.078,-8.723
-[01:10:03] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved too quickly! -3.173,-2.29,-9.289
-[01:10:31] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:10:31] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:10:51] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
-[01:10:51] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[01:10:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:10:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:11:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
-[01:11:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
-[01:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Charged Punch
-[01:12:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:12:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:12:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
-[01:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
-[01:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Grunt
-[01:12:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:12:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:12:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /spawnpoint DarkKnight124
-[01:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set spawn point to 102, 103, -641 [0.0] in minecraft:overworld for DarkKnight124]
-[01:13:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[01:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[01:13:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Sero
-[01:13:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Sero]
-[01:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Whirling Mace
-[01:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Whirling Mace
-[01:14:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:14:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:14:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:14:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:14:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[01:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[01:14:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Sero
-[01:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Sero]
-[01:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Whirling Mace
-[01:14:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:14:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:14:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
-[01:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
-[01:15:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Marine Captain using Suplex
-[01:15:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:15:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:16:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[01:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[01:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was doomed to fall by Pirate Grunt
-[01:17:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:17:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:17:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /check_haki
-[01:17:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /check_haki now
-[01:17:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[01:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[01:18:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
-[01:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
-[01:18:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tps GevaudanBk
-[01:18:57] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started MR_1 challenge.
-[01:19:00] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved too quickly! 9.26,0,6.629
-[01:19:00] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk moved too quickly! 6.703,-3.49,-8.188
-[01:19:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:19:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:19:58] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=102.00, y=103.00, z=-641.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 102.0,103.0,-641.0) left loaded chunk area
-[01:19:58] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[01:19:58] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[01:19:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:19:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:20:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain
-[01:20:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:20:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:21:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
-[01:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
-[01:21:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
-[01:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
-[01:23:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
-[01:23:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
-[01:23:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[01:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[01:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Magma Coating
-[01:24:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:24:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:24:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /spawnpoint Sero
-[01:24:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set spawn point to 328, 79, -487 [0.0] in minecraft:overworld for Sero]
-[01:24:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /kill Sero
-[01:24:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero fell out of the world
-[01:24:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Killed Sero]
-[01:24:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:24:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero has made the advancement [Sweet Dreams]
-[01:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Busoshoku Haki: Imbuing
-[01:25:00] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:25:00] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:25:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Charged Punch
-[01:25:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:25:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:26:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[01:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[01:26:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /time set day
-[01:26:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set the time to 1000]
-[01:34:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was slain by Zombie
-[01:34:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:34:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:36:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Disconnected
-[01:36:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[01:36:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[01:36:24] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[01:36:25] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[01:36:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:48317] logged in with entity id 7,833 at (-219.982, 63, -154.369)
-[01:36:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[01:36:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:36:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:36:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:36:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:36:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:36:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:37:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /mca editor
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:37:14] [Worker-Main-34/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
-[01:41:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Sero
-[01:41:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Sero]
-[01:43:09] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! -6.984,1.001,13.759
-[01:43:13] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 was kicked for floating too long!
-[01:43:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Flying is not enabled on this server
-[01:43:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[01:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[01:43:19] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[01:43:19] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[01:43:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:51629] logged in with entity id 9,654 at (-602.181, 75.678, -219.875)
-[01:43:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[01:43:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:43:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:44:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
-[01:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
-[01:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero tried to swim in lava
-[01:47:03] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:47:03] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:47:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk DarkKnight124
-[01:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to DarkKnight124]
-[01:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Magma Coating
-[01:47:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:47:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:47:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk DarkKnight124
-[01:47:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to DarkKnight124]
-[01:47:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
-[01:47:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
-[01:48:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
-[01:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
-[01:49:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[01:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[01:50:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Sero
-[01:50:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Sero]
-[01:50:16] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> 3
-[01:50:20] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> 2
-[01:50:26] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> 1
-[01:50:30] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> go
-[01:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was slain by Sero
-[01:50:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:50:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was slain by Marine Grunt
-[01:51:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:51:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:51:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
-[01:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
-[01:52:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Grunt
-[01:52:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[01:52:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[01:52:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[01:52:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[01:55:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Marine Captain using O Tatsumaki
-[01:55:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:55:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Busoshoku Haki: Imbuing
-[01:55:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:55:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Busoshoku Haki: Hardening
-[01:56:02] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:56:02] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Jishin Ho
-[01:56:14] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[01:56:14] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[01:56:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
-[01:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
-[01:57:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[01:57:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[01:57:28] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! 0.67,-10,0.232
-[01:59:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[01:59:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[01:59:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero drowned
-[01:59:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[01:59:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[01:59:50] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! 9.115,4.313,-1.448
-[02:00:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Timed out
-[02:00:02] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[02:00:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[02:00:09] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:00:09] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[02:00:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:59627] logged in with entity id 12,881 at (470.505, 85.096, -577.619)
-[02:00:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[02:00:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:00:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:01:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Timed out
-[02:01:26] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[02:01:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[02:02:00] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:02:00] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@36168bc9[id=18e9bc1f-9489-39e4-b44e-d3b71570181f,name=DarkKnight124,properties={},legacy=false] (/127.76.21.75:60159) lost connection: Disconnected
-[02:02:17] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:02:17] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7edc1073[id=18e9bc1f-9489-39e4-b44e-d3b71570181f,name=DarkKnight124,properties={},legacy=false] (/127.76.21.75:47345) lost connection: Disconnected
-[02:04:41] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:04:41] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[02:04:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:44723] logged in with entity id 13,291 at (463.786, 75, -576.157)
-[02:04:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[02:04:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:04:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:05:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[02:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[02:05:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Timed out
-[02:05:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[02:05:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[02:06:07] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:06:08] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[02:06:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:46133] logged in with entity id 13,359 at (462.731, 75, -574.744)
-[02:06:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[02:06:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:06:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:06:21] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matias is 02f304cc-81a1-310f-9666-e89b3a29beee
-[02:06:21] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
-[02:06:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matias[/127.43.41.230:42331] logged in with entity id 13,369 at (131.783, 77.062, 34.591)
-[02:06:24] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was loaded
-[02:06:24] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:06:24] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero drowned
-[02:07:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[02:07:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[02:07:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[02:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[02:08:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias GevaudanBk
-[02:08:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to GevaudanBk]
-[02:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 has made the advancement [Stone Age]
-[02:09:31] [Async Chat Thread - 4/INFO] [/]: <Sero> [name:"adsaawdawsd", x:465, y:78, z:-572, dim:minecraft:overworld]
-[02:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was doomed to fall by Marine Grunt
-[02:14:03] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:14:03] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:14:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Charged Cleave
-[02:14:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:14:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Captain using Suplex
-[02:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero died while trying to eat multiple Devil Fruits
-[02:14:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
-[02:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
-[02:14:53] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:14:53] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:14:54] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[02:14:54] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[02:15:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero issued server command: /removedf
-[02:15:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /removedf Sero
-[02:15:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Removed Devil Fruit for Sero]
-[02:15:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute
-[02:15:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:15:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:15:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
-[02:15:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
-[02:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Captain using O Tatsumaki
-[02:16:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:16:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:16:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[02:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[02:17:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
-[02:17:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
-[02:17:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
-[02:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
-[02:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Grunt
-[02:17:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:17:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:18:00] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
-[02:18:00] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
-[02:18:12] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! 17.374,2.938,10.088
-[02:18:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Timed out
-[02:18:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[02:18:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[02:18:31] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:18:31] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[02:18:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:56147] logged in with entity id 14,874 at (464.7, 76.317, -576.3)
-[02:18:37] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[02:18:37] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:18:37] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:18:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Suplex
-[02:18:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:18:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Brute
-[02:18:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:18:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:18:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Timed out
-[02:18:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[02:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[02:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Sero using Mori Drain
-[02:19:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:19:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Captain using O Tatsumaki
-[02:19:34] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:19:34] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Captain using Hiryu: Kaen
-[02:19:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:19:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:19:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Grunt
-[02:19:54] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:19:54] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:20:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Grunt
-[02:20:23] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:20:23] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:20:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Hakai Ho
-[02:20:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:20:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk died because of Marine Sniper
-[02:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Sniper
-[02:22:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:22:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:22:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:22:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:24:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Sniper
-[02:24:34] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:24:34] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Sero using Mori Drain
-[02:24:38] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:24:38] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:25:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Charged Punch
-[02:25:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:25:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:26:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Charged Cleave
-[02:26:19] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:26:19] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Captain using O Tatsumaki
-[02:26:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:26:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:27:04] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:27:04] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[02:27:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:55211] logged in with entity id 16,511 at (464.7, 76.317, -576.3)
-[02:27:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[02:27:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:27:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:27:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[02:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[02:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Captain
-[02:27:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:27:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Captain using O Tatsumaki
-[02:28:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:28:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Brute using Busoshoku Haki: Imbuing
-[02:28:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:28:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Sniper
-[02:28:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:28:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 has made the advancement [You are a horrible person!]
-[02:29:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
-[02:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
-[02:30:14] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
-[02:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Marine Captain
-[02:30:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:30:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Marine Captain
-[02:30:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:30:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:32:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
-[02:32:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
-[02:32:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero tried to swim in lava
-[02:32:18] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
-[02:32:18] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
-[02:32:43] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 was kicked for floating too long!
-[02:32:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Flying is not enabled on this server
-[02:32:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
-[02:32:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
-[02:32:47] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
-[02:32:47] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
-[02:32:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:48681] logged in with entity id 17,205 at (331.951, 84.865, -513.148)
-[02:32:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
-[02:32:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:32:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:32:53] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
-[02:33:00] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved wrongly!
-[02:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias has made the advancement [Monster Hunter]
-[02:33:16] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
-[02:33:28] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
-[02:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Silverfish
-[02:33:37] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:33:37] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:33:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
-[02:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
-[02:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 has made the advancement [Forgotten Wars and Kingdoms]
-[02:34:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias GevaudanBk
-[02:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to GevaudanBk]
-[02:35:31] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
-[02:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Zombie
-[02:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Sero
-[02:35:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:35:46] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:35:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:35:52] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:36:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Whirling Mace
-[02:36:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:36:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:36:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Sero using Mori Drain
-[02:36:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:36:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:36:39] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk moved wrongly!
-[02:36:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Magma Coating
-[02:36:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero has made the advancement [Diamonds!]
-[02:36:48] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:36:48] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was shot by Skeleton
-[02:37:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:37:11] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:37:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by DarkKnight124 using Magma Coating
-[02:37:57] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
-[02:37:57] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
-[02:38:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 500 Matias
-[02:38:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +500 doriki for Matias]
-[02:38:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Magma Coating
-[02:38:32] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
-[02:38:32] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
-[02:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero has made the advancement [Take Aim]
-[02:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Zombie
-[02:40:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias lost connection: Timed out
-[02:40:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was unloaded
-[02:40:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias left the game
-[02:41:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[02:41:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[02:41:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 1000
-[02:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +1000 doriki for DarkKnight124]
-[02:45:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 3000
-[02:45:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +3000 doriki for DarkKnight124]
-[02:45:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
-[02:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
-[02:45:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
-[02:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
-[02:45:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
-[02:45:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
-[02:46:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
-[02:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
-[02:46:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
-[02:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
-[02:47:20] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
-[02:47:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:47:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:48:14] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
-[02:48:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
-[02:48:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
-[02:48:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp BUSOSHOKU 40
-[02:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +40.0 haki exp for DarkKnight124]
-[02:48:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
-[02:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
-[02:48:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp KENBUNSHOKU 50
-[02:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +50.0 haki exp for DarkKnight124]
+[02:52:13] [main/INFO] [STDOUT/]: Update in check...
+[02:52:13] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[02:52:13] [main/INFO] [STDOUT/]: [!] Can't connect to the ci to check updates or unable to download the update.
+[02:52:13] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[02:52:13] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 11.0.28 by Ubuntu
+[02:52:13] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[02:52:13] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/mine_mine_repository/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[02:52:14] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /workspaces/mine_mine_repository/servidor_minecraft/mods/voicechat-fabric-1.16.5-2.6.4.jar is missing mods.toml file
+[02:52:14] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /workspaces/mine_mine_repository/servidor_minecraft/mods/voicechat-fabric-1.16.5-2.6.4.jar has been ignored - it is invalid
+[02:52:15] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[02:52:15] [main/WARN] [mixin/]: Reference map 'MineMineNoMiAddonTemplate.refmap.json' for eopaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:52:15] [main/WARN] [mixin/]: Reference map 'CartAddon.refmap.json' for cartaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:52:16] [main/WARN] [mixin/]: Error loading class: org/valkyrienskies/core/util/assertions/stages/TickStageEnforcerImpl (java.lang.ClassNotFoundException: null)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target org.valkyrienskies.core.util.assertions.stages.TickStageEnforcerImpl was not found mine-mine-no-mi.mixins.json:valkyrienskies.TickStageEnforcerImplMixin
+[02:52:16] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/AbstractClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.AbstractClientPlayerEntity was not found moreplayermodels.mixins.json:AbstractClientPlayerEntityMixin
+[02:52:16] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/ActiveRenderInfo (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.ActiveRenderInfo was not found moreplayermodels.mixins.json:ActiveRenderInfoMixin
+[02:52:16] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/layers/BipedArmorLayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.layers.BipedArmorLayer was not found moreplayermodels.mixins.json:ArmorLayerMixin
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/model/BipedModel (java.lang.ClassNotFoundException: null)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.model.BipedModel was not found moreplayermodels.mixins.json:BipedBodyMixin
+[02:52:16] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/LivingRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.LivingRenderer was not found moreplayermodels.mixins.json:LivingRendererMixin
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/model/ModelRenderer (java.lang.ClassNotFoundException: null)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.model.ModelRenderer was not found moreplayermodels.mixins.json:ModelRendererMixin
+[02:52:16] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleManager (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleManager was not found moreplayermodels.mixins.json:ParticleManagerMixin
+[02:52:16] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER
+[02:52:16] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PlayerRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER)
+[02:52:16] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PlayerRenderer was not found moreplayermodels.mixins.json:PlayerRendererMixin
+[02:52:24] [modloading-worker-2/INFO] [team.chisel.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field GASU_GASU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field YUKI_YUKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field HIE_HIE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field JIKI_JIKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field MOKU_MOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field PIKA_PIKA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field HITO_HITO_NO_MI_DAIBUTSU:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field KIRA_KIRA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field DOKU_DOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field GURA_GURA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field MAGU_MAGU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field TORI_TORI_NO_MI_PHOENIX:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field GORO_GORO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field GOE_GOE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field CHIYU_CHIYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field NIKYU_NIKYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field SUNA_SUNA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_PTERANODON:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field MINI_MINI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field OTO_OTO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field SARA_SARA_NO_MI_AXOLOTL:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field OPE_OPE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-0/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_BRACHIOSAURUS:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[02:52:24] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[02:52:24] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[02:52:25] [modloading-worker-1/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon constructed
+[02:52:25] [modloading-worker-3/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.change_character
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
+[02:52:27] [modloading-worker-0/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
+[02:52:30] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[02:52:30] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[02:52:31] [main/INFO] [com.barion.dungeons_enhanced.DungeonsEnhanced/]: Dungeons Enhanced structures loaded
+[02:52:31] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
+[02:52:31] [modloading-worker-1/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[02:52:31] [modloading-worker-0/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon common setup complete
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@2f680b47' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@378f3f85' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@62a5fa78' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7db91855' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@58522800' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@2f680b47' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@378f3f85' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@62a5fa78' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7db91855' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@58522800' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@2f680b47' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@378f3f85' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@62a5fa78' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7db91855' to registry
+[02:52:32] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@58522800' to registry
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC Permissions available:
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[02:52:32] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[02:52:32] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02:52:32] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[02:52:32] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[02:52:32] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[02:52:32] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:thunder_plains to structure_gel:[]
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:sabaody to structure_gel:[]
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:drum to structure_gel:[]
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:castle
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_temple
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_tomb
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:druid_circle
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:dungeon_variant
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:elders_temple
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:fishing_ship
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:flying_dutchman
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:hay_storage
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ice_pit
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:jungle_monument
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:large_dungeon
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:miners_house
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:monster_maze
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:mushroom_house
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pillager_camp
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pirate_ship
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ruined_building
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:stables
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:sunken_shrine
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tall_witch_hut
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tree_house
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tower_of_the_undead
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:watch_tower
+[02:52:33] [modloading-worker-3/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:witch_tower
+[02:52:35] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: Mods loaded with 1 warnings
+[02:52:35] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: File voicechat-fabric-1.16.5-2.6.4.jar is a Fabric mod and cannot be loaded
+[02:52:35] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 9 outside of range [0:7]
+[02:52:36] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:52:37] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-8c7caaf7-universal.jar, bukkit, FarmersDelight-1.16.5-0.6.0.jar, ColtCosmeticArmorMod-1.2.5.jar, mine-mine-no-mi-1.16.5-0.10.7.jar, CustomNPCs-1.16.5.20220515.jar, CreativeCore_v2.2.1_mc1.16.5.jar, Chisel-Mod-1.16.5.jar, dungeons_enhanced-1.16.5-1.9.2.jar, smallships-1.16.5-2.0.0-Alpha-0.4.jar, EoPAddon-0.3.jar, curios-forge-1.16.5-4.1.0.0.jar, cartaddon-0.7.11.jar, CosmeticArmorReworked-1.16.5-v5a.jar, Waystones_1.16.5-7.6.4.jar, MorePlayerModels-1.16.5.20220731.jar, structure_gel-1.16.5-1.7.8.jar, journeymap-1.16.5-5.8.6.jar, CTM-MC1.16.1-1.1.2.6.jar, TravelersBackpack-1.16.5-5.4.51.jar, ParCool-1.16.5-3.4.1.5.jar, hakibar-1.16.5-1.8.jar, worldedit-mod-7.2.5-dist.jar, architectury-1.32.68.jar, minecraft-comes-alive-7.3.23+1.16.5-universal (1).jar
+[02:52:39] [Worker-Main-5/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[02:52:40] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,749 recipes
+[02:52:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[02:52:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02:52:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02:52:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02:52:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[02:52:44] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[02:52:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:52:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02:52:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:52:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:52:44] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-8c7caaf7 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[02:52:45] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02:52:45] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[02:52:45] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02:52:46] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[02:52:46] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02:52:46] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02:52:47] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02:52:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02:52:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02:52:50] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02:52:51] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 29%
+[02:52:52] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02:52:52] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4,457 ms
+[02:52:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[02:52:53] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02:52:54] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[02:52:57] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[02:52:57] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[02:52:58] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5,848 ms
+[02:52:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[02:52:58] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02:52:58] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[02:52:59] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[02:52:59] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,190 ms
+[02:52:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges
+[02:52:59] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02:53:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 884 ms
+[02:53:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f
+[02:53:00] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[02:53:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 685 ms
+[02:53:00] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[02:53:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.010s)! For help, type "help"
+[02:53:02] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6ab808d]
+[02:53:03] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[02:54:16] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matias is 02f304cc-81a1-310f-9666-e89b3a29beee
+[02:54:16] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
+[02:54:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matias[/127.43.41.230:37295] logged in with entity id 126 at (362.658, 64, -647.3)
+[02:54:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was loaded
+[02:54:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[02:54:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[02:54:25] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[02:54:25] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
+[02:54:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:42843] logged in with entity id 198 at (178.21, 66, -767.319)
+[02:54:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[02:54:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[02:54:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[02:54:31] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[02:54:31] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[02:54:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /check_haki now
+[02:54:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp BUSOSHOKU 50
+[02:54:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +50.0 haki exp for DarkKnight124]
+[02:55:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp KENBUNSHOKU 50
+[02:55:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +50.0 haki exp for DarkKnight124]
+[02:55:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[02:55:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[02:55:13] [Async Chat Thread - 2/INFO] [/]: <DarkKnight124> diablo
+[02:55:15] [Async Chat Thread - 2/INFO] [/]: <DarkKnight124> ajjaajjaj
+[02:58:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias
+[02:58:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Matias]
+[02:58:37] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sero is 8cae250b-7a60-3eb3-b16a-903d129eecd4
+[02:58:37] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
+[02:58:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sero[/127.66.243.34:43693] logged in with entity id 316 at (186.625, 134.856, -733.748)
+[02:58:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8cae250b-7a60-3eb3-b16a-903d129eecd4 was loaded
+[02:58:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[02:58:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[02:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Marine Sniper
+[02:59:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[02:59:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[02:59:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero Matias
+[02:59:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to Matias]
+[03:00:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was killed by Sero using Mori Drain
+[03:00:05] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias was kicked for floating too long!
+[03:00:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias lost connection: Flying is not enabled on this server
+[03:00:05] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was unloaded
+[03:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias left the game
+[03:00:05] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias was kicked for floating too long!
+[03:00:05] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias was kicked for floating too long!
+[03:00:05] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias was kicked for floating too long!
+[03:00:05] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias was kicked for floating too long!
+[03:00:13] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Matias is 02f304cc-81a1-310f-9666-e89b3a29beee
+[03:00:13] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
+[03:00:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matias[/127.43.41.230:58681] logged in with entity id 528 at (334.5, 71, -657.5)
+[03:00:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was loaded
+[03:00:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[03:00:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[03:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Conqueror of Three Worlds Ragnaraku
+[03:00:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:00:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:00:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
+[03:00:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
+[03:00:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[03:00:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[03:00:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias
+[03:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Matias]
+[03:01:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Matias DarkKnight124
+[03:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Matias to DarkKnight124]
+[03:01:56] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
