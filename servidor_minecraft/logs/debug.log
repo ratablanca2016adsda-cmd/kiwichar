@@ -16257,3 +16257,163 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [01:47:14] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [01:47:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk DarkKnight124
 [01:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to DarkKnight124]
+[01:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Magma Coating
+[01:47:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[01:47:40] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[01:47:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk DarkKnight124
+[01:47:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to DarkKnight124]
+[01:47:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[01:47:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[01:48:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero GevaudanBk
+[01:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to GevaudanBk]
+[01:49:39] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:40] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:40] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:41] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:49:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
+[01:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
+[01:50:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk Sero
+[01:50:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported GevaudanBk to Sero]
+[01:50:05] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:05] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:05] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:06] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:06] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:16] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> 3
+[01:50:20] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> 2
+[01:50:26] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> 1
+[01:50:30] [Async Chat Thread - 3/INFO] [/]: <DarkKnight124> go
+[01:50:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:36] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:36] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:36] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:36] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:41] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:41] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was slain by Sero
+[01:50:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:48] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:48] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[01:50:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[01:50:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:50:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:26] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:26] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:26] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:27] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:27] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was slain by Marine Grunt
+[01:51:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[01:51:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[01:51:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:44] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:51:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
+[01:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
+[01:52:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by Marine Grunt
+[01:52:15] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01:52:15] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01:52:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[01:52:16] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[01:52:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero DarkKnight124
+[01:52:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported Sero to DarkKnight124]
+[01:53:36] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:40] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:48] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:48] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:56] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:56] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:56] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:53:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:54:08] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:54:15] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:54:15] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:54:16] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:54:16] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:54:16] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:16] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:16] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:17] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:19] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Tokuyo Abura Boshi at tick 1420
+[01:55:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Marine Captain using O Tatsumaki
+[01:55:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[01:55:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[01:55:27] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Tokuyo Abura Boshi at tick 1582
+[01:55:28] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped O Tatsumaki at tick 48032
+[01:55:31] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:31] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:31] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:34] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:34] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:40] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Sanbyakurokuju Pound Ho at tick 7163
+[01:55:40] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 7163
+[01:55:42] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Yakkodori at tick 7184
+[01:55:42] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 7194
+[01:55:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 7216
+[01:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Busoshoku Haki: Imbuing
+[01:55:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:55:51] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:55:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:55:55] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 95
+[01:55:58] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 157
+[01:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Busoshoku Haki: Hardening
+[01:56:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:02] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:02] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:02] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:56:02] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:56:04] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Yakkodori at tick 63
+[01:56:09] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 158
+[01:56:10] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 164
+[01:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 was killed by Marine Captain using Jishin Ho
+[01:56:11] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Jishin Ho at tick 203
+[01:56:11] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Suplex at tick 203
+[01:56:11] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Hardening at tick 203
+[01:56:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:14] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:14] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:14] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:56:14] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:56:14] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:14] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[01:56:21] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Hardening at tick 137
+[01:56:28] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Hardening at tick 281
+[01:56:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[01:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[01:57:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[01:57:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[01:57:15] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01:57:15] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01:57:28] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! 0.67,-10,0.232

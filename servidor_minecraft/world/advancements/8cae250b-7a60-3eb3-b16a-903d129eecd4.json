@@ -733,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-10-06 01:53:25 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_galley": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
@@ -1735,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-10-06 01:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-10-04 21:40:43 +0000"
@@ -2047,7 +2059,8 @@
       "cooked_mutton": "2025-10-04 22:55:24 +0000",
       "cooked_beef": "2025-10-05 22:32:21 +0000",
       "mutton": "2025-10-05 22:50:02 +0000",
-      "bread": "2025-10-04 21:49:30 +0000"
+      "bread": "2025-10-04 21:49:30 +0000",
+      "golden_apple": "2025-10-06 01:50:20 +0000"
     },
     "done": false
   },
@@ -2248,6 +2261,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-04 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-10-06 01:53:25 +0000"
     },
     "done": true
   },
