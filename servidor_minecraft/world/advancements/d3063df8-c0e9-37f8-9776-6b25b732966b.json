@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-10-06 01:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-10-05 19:35:35 +0000"
@@ -631,6 +637,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-05 22:32:37 +0000",
+      "minecraft:silverfish": "2025-10-06 01:29:21 +0000",
       "minecraft:zombie": "2025-10-05 22:31:24 +0000"
     },
     "done": false
@@ -1643,6 +1650,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-10-06 01:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-10-05 19:31:47 +0000"
@@ -1652,6 +1665,12 @@
   "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-10-06 01:33:09 +0000"
     },
     "done": true
   },
@@ -1730,6 +1749,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-10-05 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-10-06 01:33:09 +0000"
     },
     "done": true
   },
@@ -2105,6 +2130,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-10-05 23:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-10-06 01:33:09 +0000"
     },
     "done": true
   },
@@ -2567,6 +2598,12 @@
   "smallships:recipes/lotr_lairelosse_rowboat": {
     "criteria": {
       "in_water": "2025-10-05 19:47:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-10-06 01:33:09 +0000"
     },
     "done": true
   },

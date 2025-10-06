@@ -419,6 +419,7 @@
       "entered_flying_dutchman": "2025-10-05 20:25:06 +0000",
       "entered_pirate_ship": "2025-10-05 19:53:38 +0000",
       "entered_fishing_ship": "2025-10-05 20:16:26 +0000",
+      "entered_ruined_building": "2025-10-06 01:32:24 +0000",
       "entered_witch_tower": "2025-10-04 22:39:28 +0000"
     },
     "done": false
@@ -660,6 +661,12 @@
   "smallships:recipes/lotr_larch_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_1": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 01:19:58 +0000"
     },
     "done": true
   },
@@ -967,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-10-06 01:27:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1120,6 +1133,12 @@
   "smallships:recipes/oak_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-10-06 01:23:54 +0000"
     },
     "done": true
   },
@@ -1619,6 +1638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-10-06 01:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-10-04 15:42:43 +0000"
@@ -1742,6 +1767,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-10-04 22:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-10-06 01:27:01 +0000"
     },
     "done": true
   },
@@ -1931,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2025-10-06 01:27:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2035,6 +2072,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-10-06 01:16:55 +0000",
       "chicken": "2025-10-04 21:54:26 +0000",
       "cooked_mutton": "2025-10-05 22:31:58 +0000",
       "cooked_beef": "2025-10-05 21:28:54 +0000",
@@ -2201,6 +2239,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-10-06 01:27:01 +0000"
     },
     "done": true
   },
@@ -3195,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-10-06 01:27:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_willow_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -3474,6 +3524,12 @@
   "smallships:recipes/lotr_holly_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2025-10-06 01:27:20 +0000"
     },
     "done": true
   },
