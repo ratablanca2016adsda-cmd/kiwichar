@@ -1,12 +1,12 @@
 JVM info: Microsoft - 21.0.7 - 21.0.7+6-LTS
 java.net.preferIPv4Stack=true
-Current Time: 06/10/2025 13:31:57
+Current Time: 06/10/2025 18:10:45
 Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
 Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
-Host: libraries.minecraft.net [13.107.213.41, 13.107.246.41]
+Host: libraries.minecraft.net [13.107.246.41, 13.107.213.41]
 Host: launchermeta.mojang.com [13.107.246.41, 13.107.213.41]
-Host: piston-meta.mojang.com [13.107.246.41, 13.107.213.41]
-Host: sessionserver.mojang.com [13.107.213.41, 13.107.246.41]
+Host: piston-meta.mojang.com [13.107.213.41, 13.107.246.41]
+Host: sessionserver.mojang.com [13.107.246.41, 13.107.213.41]
 Host: authserver.mojang.com [Unknown]
 Target Directory: .
 Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
@@ -151,7 +151,7 @@ Considering library org.ow2.asm:asm:9.3
   File exists: Checksum validated.
 Considering library trove:trove:1.0.2
   File exists: Checksum validated.
-Created Temporary Directory: /tmp/forge_installer3471093653896775684
+Created Temporary Directory: /tmp/forge_installer680148473401425305
   Extracting: /data/server.lzma
 Building Processors
 ===============================================================================
