@@ -2877,6 +2877,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/black_cat_pirates": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-10-05 22:13:01 +0000"

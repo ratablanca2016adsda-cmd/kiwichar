@@ -405,3 +405,43 @@
 [03:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Killed Sero]
 [03:12:23] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
 [03:12:23] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:14:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 2000 Sero
+[03:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +2000 doriki for Sero]
+[03:15:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[03:15:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[03:15:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[03:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[03:15:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[03:15:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[03:16:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /check_haki now
+[03:17:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[03:17:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[03:17:43] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved too quickly! 7.4,0,7.3
+[03:19:08] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 was kicked for floating too long!
+[03:19:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 lost connection: Flying is not enabled on this server
+[03:19:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was unloaded
+[03:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 left the game
+[03:19:12] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[03:19:12] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
+[03:19:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:46997] logged in with entity id 27,175 at (291.254, 101.304, -316.34)
+[03:19:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[03:19:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:19:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:21:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /kill DarkKnight124
+[03:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 fell out of the world
+[03:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Killed DarkKnight124]
+[03:21:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:21:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:21:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp BUSOSHOKU 20
+[03:21:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +20.0 haki exp for DarkKnight124]
+[03:21:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp KENBUNSHOKU 23
+[03:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +23.0 haki exp for DarkKnight124]
+[03:21:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[03:21:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[03:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Conqueror of Three Worlds Ragnaraku
+[03:22:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:22:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:22:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 900
+[03:22:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +900 doriki for DarkKnight124]
+[03:22:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 900 Sero
+[03:22:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +900 doriki for Sero]

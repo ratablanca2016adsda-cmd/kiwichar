@@ -465,6 +465,7 @@
     "criteria": {
       "unlock_busoshoku_imbuing": "2025-10-06 02:54:53 +0000",
       "unlock_kenbunshoku_aura": "2025-10-06 02:55:04 +0000",
+      "unlock_busoshoku_fullbody": "2025-10-06 03:09:52 +0000",
       "unlock_busoshoku_hardening": "2025-10-06 02:54:53 +0000"
     },
     "done": false
@@ -3010,6 +3011,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/s_shark_hard": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:09:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_fir_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -3457,6 +3464,12 @@
   "mineminenomi:recipes/misc/cooked_sea_king_meat_from_campfire_cooking": {
     "criteria": {
       "has_seaking_meat": "2025-10-04 21:03:27 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/s_shark": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:08:49 +0000"
     },
     "done": true
   },
