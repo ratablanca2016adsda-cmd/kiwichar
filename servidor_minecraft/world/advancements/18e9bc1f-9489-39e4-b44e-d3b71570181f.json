@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-10-04 22:18:10 +0000"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -589,6 +601,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-10-04 20:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -1286,6 +1304,12 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/misc/cannon_ball": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/misc/cola": {
     "criteria": {
       "has_bottle": "2025-10-04 22:53:39 +0000"
@@ -1515,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_palm_cog": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1590,9 +1620,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_wood_slab": "2025-10-04 15:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -1605,6 +1647,12 @@
   "smallships:recipes/envi_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -1641,6 +1689,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-10-06 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -1776,6 +1830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-10-04 22:24:15 +0000"
@@ -1803,6 +1863,12 @@
   "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -1875,6 +1941,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-10-05 19:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -2145,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000",
@@ -2333,9 +2411,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -2571,6 +2661,12 @@
   "smallships:recipes/lotr_lebethron_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
@@ -2970,9 +3066,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-10-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-10-06 02:08:48 +0000"
     },
     "done": true
   },
