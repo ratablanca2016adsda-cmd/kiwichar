@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-10-05 22:51:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_beech_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -819,6 +825,22 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-10-05 23:18:13 +0000",
+      "village_savanna": "2025-10-05 23:18:13 +0000",
+      "village_snowy": "2025-10-05 23:18:13 +0000",
+      "village_desert": "2025-10-05 23:18:13 +0000",
+      "village_plains": "2025-10-05 23:18:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -933,6 +955,12 @@
     },
     "done": true
   },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2025-10-05 23:18:13 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:adventure/subtle_tweaks": {
     "criteria": {
       "subtle_tweaks": "2025-10-05 19:48:56 +0000"
@@ -1035,6 +1063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2025-10-05 23:22:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1056,6 +1090,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-10-05 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
     },
     "done": true
   },
@@ -1167,6 +1207,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-10-05 19:55:46 +0000"
@@ -1212,6 +1258,12 @@
   "smallships:recipes/bop_willow_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-10-05 23:22:06 +0000"
     },
     "done": true
   },
@@ -1410,6 +1462,12 @@
   "smallships:recipes/bop_jacaranda_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
     },
     "done": true
   },
@@ -1747,6 +1805,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1846,6 +1910,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-10-04 22:24:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
     },
     "done": true
   },
@@ -2003,6 +2073,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
     },
     "done": true
   },
@@ -2609,6 +2685,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-05 22:51:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_dead_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2783,6 +2865,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 15:49:51 +0000"
@@ -2882,6 +2970,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-10-04 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/kuro": {
+    "criteria": {
+      "unlock_challenge": "2025-10-05 22:42:28 +0000"
     },
     "done": true
   },
@@ -3035,6 +3129,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/misc/cooked_sea_king_meat_from_campfire_cooking": {
     "criteria": {
       "has_seaking_meat": "2025-10-04 21:03:27 +0000"
@@ -3050,6 +3150,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-10-04 22:46:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
     },
     "done": true
   },
@@ -3194,6 +3300,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
     },
     "done": true
   },
@@ -3398,6 +3510,12 @@
   "smallships:recipes/lotr_lairelosse_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-10-05 23:18:13 +0000"
     },
     "done": true
   },

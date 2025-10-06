@@ -36,10 +36,10 @@
 	#Guarantees a minimum of 1 doriki per kill
 	# If used together with a Haki Exp Multiplier with a multiplier less than <1.0 it will convert it to chances
 	#Default: false
-	"Minimum Doriki per Kill" = true
+	"Minimum Doriki per Kill" = false
 	#Allows non-OP users to use /removedf command ON THEMSELVES! 
 	#Default: false
-	"Public /removedf" = false
+	"Public /removedf" = true
 	#Allows big explosions to destroy water 
 	#Default: false
 	"Destroy Water" = false
