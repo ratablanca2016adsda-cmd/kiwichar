@@ -221,3 +221,69 @@
 [00:47:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.756s)! For help, type "help"
 [00:47:06] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@135a7bfe]
 [00:47:07] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[00:56:38] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DarkKnight124 is 18e9bc1f-9489-39e4-b44e-d3b71570181f
+[00:56:38] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 26 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
+[00:56:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DarkKnight124[/127.76.21.75:32805] logged in with entity id 127 at (-338.436, 63, -876.587)
+[00:56:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 18e9bc1f-9489-39e4-b44e-d3b71570181f was loaded
+[00:56:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[00:56:41] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[00:57:45] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SNAKE challenge.
+[00:57:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[00:57:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[00:58:08] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
+[00:58:09] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[00:58:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[00:58:09] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[00:59:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 2000
+[00:59:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +2000 doriki for DarkKnight124]
+[01:00:24] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sero is 8cae250b-7a60-3eb3-b16a-903d129eecd4
+[01:00:24] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
+[01:00:24] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SNAKE challenge.
+[01:00:28] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! -9.974,0,-1.205
+[01:00:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:00:33] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:00:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sero[/127.66.243.34:50549] logged in with entity id 376 at (174.561, 62, -343.793)
+[01:00:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8cae250b-7a60-3eb3-b16a-903d129eecd4 was loaded
+[01:00:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[01:00:35] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[01:00:55] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
+[01:00:55] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[01:00:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:00:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:01:35] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO challenge.
+[01:01:55] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player GevaudanBk is d3063df8-c0e9-37f8-9776-6b25b732966b
+[01:01:55] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 27 mods : minecraft, farmersdelight, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, tlskincape, structure_gel, hakibar
+[01:01:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GevaudanBk[/127.229.102.35:60383] logged in with entity id 1,026 at (-68.3, 105.753, -753.3)
+[01:01:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d3063df8-c0e9-37f8-9776-6b25b732966b was loaded
+[01:01:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
+[01:01:59] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[01:02:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:02:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by Marine Grunt
+[01:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[01:02:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[01:02:49] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
+[01:02:49] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[01:02:49] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[01:02:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:02:49] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:03:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
+[01:03:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /op GevaudanBk
+[01:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk a server operator]
+[01:03:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
+[01:04:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /deop GevaudanBk
+[01:04:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk no longer a server operator]
+[01:04:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
+[01:04:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
+[01:04:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /op GevaudanBk
+[01:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk a server operator]
+[01:04:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GevaudanBk issued server command: /mca editor
+[01:05:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /deop GevaudanBk
+[01:05:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Made GevaudanBk no longer a server operator]
+[01:05:37] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
+[01:06:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:06:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[01:06:27] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/127, l='ServerLevel[world]', x=-288.00, y=81.00, z=-1024.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at -288.0,81.0,-1024.0) left loaded chunk area
+[01:06:27] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[01:06:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[01:06:27] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
