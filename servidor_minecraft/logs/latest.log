@@ -716,3 +716,36 @@
 [02:38:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GevaudanBk was killed by DarkKnight124 using Magma Coating
 [02:38:32] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [GevaudanBk]
 [02:38:32] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [GevaudanBk]
+[02:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero has made the advancement [Take Aim]
+[02:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was slain by Zombie
+[02:40:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias lost connection: Timed out
+[02:40:36] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was unloaded
+[02:40:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias left the game
+[02:41:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[02:41:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[02:41:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 1000
+[02:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +1000 doriki for DarkKnight124]
+[02:45:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 3000
+[02:45:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +3000 doriki for DarkKnight124]
+[02:45:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[02:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[02:45:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[02:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[02:45:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
+[02:45:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
+[02:46:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode creative
+[02:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Creative Mode]
+[02:46:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
+[02:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
+[02:47:20] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
+[02:47:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[02:47:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[02:48:14] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[02:48:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[02:48:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[02:48:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp BUSOSHOKU 40
+[02:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +40.0 haki exp for DarkKnight124]
+[02:48:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp GevaudanBk
+[02:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to GevaudanBk]
+[02:48:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /hakiexp KENBUNSHOKU 50
+[02:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +50.0 haki exp for DarkKnight124]

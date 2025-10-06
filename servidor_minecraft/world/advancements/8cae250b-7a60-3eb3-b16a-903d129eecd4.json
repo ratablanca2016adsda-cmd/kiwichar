@@ -439,7 +439,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_castle": "2025-10-05 22:30:06 +0000"
+      "entered_castle": "2025-10-05 22:30:06 +0000",
+      "entered_watch_tower": "2025-10-06 02:43:39 +0000"
     },
     "done": false
   },
@@ -3549,6 +3550,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-10-06 02:40:04 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_castle": "2025-10-05 22:30:06 +0000"
@@ -3594,6 +3601,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-10-04 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-10-06 02:38:13 +0000"
     },
     "done": true
   },

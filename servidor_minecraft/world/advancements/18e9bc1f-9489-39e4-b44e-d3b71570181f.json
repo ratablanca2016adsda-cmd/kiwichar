@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-10-06 02:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-10-05 19:48:38 +0000"
@@ -762,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_brigg": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -795,6 +807,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-04 22:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-10-06 02:42:04 +0000"
     },
     "done": true
   },
@@ -892,6 +910,12 @@
     },
     "done": true
   },
+  "chisel:recipes/chisel/futura/controller": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -913,6 +937,12 @@
   "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
     "criteria": {
       "has_milk_bottle": "2025-10-04 22:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-10-06 02:42:15 +0000"
     },
     "done": true
   },
@@ -985,6 +1015,12 @@
   "smallships:recipes/bop_magic_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "chisel:recipes/chisel/futura/wavy": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
     },
     "done": true
   },
@@ -1664,6 +1700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-06 02:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-10-06 02:08:48 +0000"
@@ -1760,6 +1802,18 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/weapons/clima_tact": {
+    "criteria": {
+      "has_lapis": "2025-10-06 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-10-06 02:42:15 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -1844,6 +1898,12 @@
     },
     "done": true
   },
+  "chisel:recipes/chisel/futura/uber_wavy": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-10-06 02:08:48 +0000"
@@ -1877,6 +1937,12 @@
   "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "chisel:recipes/chisel/futura/screen_metallic": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
     },
     "done": true
   },
@@ -2090,6 +2156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-10-06 02:42:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2225,6 +2297,12 @@
     },
     "done": true
   },
+  "chisel:recipes/chisel/futura/controller_purple": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_dhow": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -2260,6 +2338,12 @@
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000",
       "has_the_recipe": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
     },
     "done": true
   },
@@ -2437,6 +2521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 15:09:12 +0000"
@@ -2494,6 +2584,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-10-04 14:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
     },
     "done": true
   },
@@ -2636,6 +2732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-10-06 02:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-10-05 19:55:46 +0000"
@@ -2687,6 +2789,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-10-06 02:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
     },
     "done": true
   },
@@ -3290,6 +3398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -3314,6 +3428,12 @@
     },
     "done": true
   },
+  "chisel:recipes/chisel/futura/screen_cyan": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-10-04 22:05:25 +0000"
@@ -3335,6 +3455,12 @@
   "smallships:recipes/lotr_beech_drakkar": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
     },
     "done": true
   },
@@ -3452,6 +3578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-10-06 02:40:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_green_oak_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
@@ -3536,6 +3668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-10-06 02:40:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-10-04 15:24:12 +0000"
@@ -3599,6 +3737,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-04 22:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-10-06 02:39:28 +0000"
     },
     "done": true
   },

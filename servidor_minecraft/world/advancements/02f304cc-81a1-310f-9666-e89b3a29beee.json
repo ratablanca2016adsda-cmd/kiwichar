@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "chisel:recipes/chisel/charcoal/raw": {
+    "criteria": {
+      "has_charcoal": "2025-10-06 02:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-10-05 21:18:19 +0000"
@@ -206,6 +212,12 @@
   "smallships:recipes/bop_umbran_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-10-06 02:39:29 +0000"
     },
     "done": true
   },
@@ -615,6 +627,12 @@
   "smallships:recipes/lotr_cypress_galley": {
     "criteria": {
       "in_water": "2025-10-05 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-10-06 02:39:31 +0000"
     },
     "done": true
   },
@@ -1423,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-10-06 02:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-10-05 21:22:52 +0000"
@@ -1745,6 +1769,7 @@
       "bread": "2025-10-05 22:13:01 +0000",
       "rotten_flesh": "2025-10-05 22:37:00 +0000",
       "cookie": "2025-10-05 23:22:46 +0000",
+      "suspicious_stew": "2025-10-06 02:38:19 +0000",
       "beetroot": "2025-10-05 21:52:44 +0000",
       "mushroom_stew": "2025-10-05 22:47:38 +0000",
       "carrot": "2025-10-05 22:47:14 +0000"
@@ -1916,6 +1941,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-10-05 22:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-10-06 02:39:31 +0000"
     },
     "done": true
   },
