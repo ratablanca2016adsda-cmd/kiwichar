@@ -1,37 +1,429 @@
-[18:10:58] [main/INFO] [STDOUT/]: Update in check...
-[18:10:58] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
-[18:10:59] [main/INFO] [STDOUT/]: [!] Can't connect to the ci to check updates or unable to download the update.
-[18:10:59] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, --installServer]
-[18:10:59] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 21.0.7 by Microsoft
-[18:10:59] [main/ERROR] [STDERR/]: java.lang.RuntimeException: java.io.EOFException: Expected:85991, read:0
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.jar.JarFile.ensureInitialization(JarFile.java:1066)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.jar.JavaUtilJarAccessImpl.ensureInitialization(JavaUtilJarAccessImpl.java:42)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/jdk.internal.loader.URLClassPath$JarLoader$2.getManifest(URLClassPath.java:852)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:848)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.lang.Class.forName0(Native Method)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.lang.Class.forName(Class.java:534)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.lang.Class.forName(Class.java:513)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.nextProviderClass(ServiceLoader.java:1217)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1228)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
-[18:10:59] [main/ERROR] [STDERR/]: 	at cpw.mods.modlauncher.ServiceLoaderStreamUtils.errorHandlingServiceLoader(ServiceLoaderStreamUtils.java:65)
-[18:10:59] [main/ERROR] [STDERR/]: 	at cpw.mods.modlauncher.ServiceLoaderStreamUtils.errorHandlingServiceLoader(ServiceLoaderStreamUtils.java:60)
-[18:10:59] [main/ERROR] [STDERR/]: 	at cpw.mods.modlauncher.LaunchPluginHandler.<init>(LaunchPluginHandler.java:39)
-[18:10:59] [main/ERROR] [STDERR/]: 	at cpw.mods.modlauncher.Launcher.<init>(Launcher.java:60)
-[18:10:59] [main/ERROR] [STDERR/]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
-[18:10:59] [main/ERROR] [STDERR/]: 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:105)
-[18:10:59] [main/ERROR] [STDERR/]: 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:86)
-[18:10:59] [main/ERROR] [STDERR/]: Caused by: java.io.EOFException: Expected:85991, read:0
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.jar.JarFile.getBytes(JarFile.java:822)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.jar.JarFile.getManifestFromReference(JarFile.java:418)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.jar.JarFile.getManifest(JarFile.java:405)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.jar.JarFile.maybeInstantiateVerifier(JarFile.java:724)
-[18:10:59] [main/ERROR] [STDERR/]: 	at java.base/java.util.jar.JarFile.ensureInitialization(JarFile.java:1064)
-[18:10:59] [main/ERROR] [STDERR/]: 	... 23 more
+[18:36:47] [main/INFO] [STDOUT/]: Update in check...
+[18:36:47] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[18:36:48] [main/INFO] [STDOUT/]: [!] Can't connect to the ci to check updates or unable to download the update.
+[18:36:48] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[18:36:48] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 11.0.28 by Ubuntu
+[18:36:48] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[18:36:48] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/mine_mine_repository/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[18:36:48] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /workspaces/mine_mine_repository/servidor_minecraft/mods/voicechat-fabric-1.16.5-2.6.4.jar is missing mods.toml file
+[18:36:48] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /workspaces/mine_mine_repository/servidor_minecraft/mods/voicechat-fabric-1.16.5-2.6.4.jar has been ignored - it is invalid
+[18:36:50] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[18:36:50] [main/WARN] [mixin/]: Reference map 'MineMineNoMiAddonTemplate.refmap.json' for eopaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:36:50] [main/WARN] [mixin/]: Reference map 'CartAddon.refmap.json' for cartaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:36:50] [main/WARN] [mixin/]: Error loading class: org/valkyrienskies/core/util/assertions/stages/TickStageEnforcerImpl (java.lang.ClassNotFoundException: null)
+[18:36:50] [main/WARN] [mixin/]: @Mixin target org.valkyrienskies.core.util.assertions.stages.TickStageEnforcerImpl was not found mine-mine-no-mi.mixins.json:valkyrienskies.TickStageEnforcerImplMixin
+[18:36:50] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER
+[18:36:50] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/AbstractClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[18:36:50] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.AbstractClientPlayerEntity was not found moreplayermodels.mixins.json:AbstractClientPlayerEntityMixin
+[18:36:50] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER
+[18:36:50] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/ActiveRenderInfo (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER)
+[18:36:50] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.ActiveRenderInfo was not found moreplayermodels.mixins.json:ActiveRenderInfoMixin
+[18:36:50] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER
+[18:36:50] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/layers/BipedArmorLayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER)
+[18:36:50] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.layers.BipedArmorLayer was not found moreplayermodels.mixins.json:ArmorLayerMixin
+[18:36:51] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/model/BipedModel (java.lang.ClassNotFoundException: null)
+[18:36:51] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.model.BipedModel was not found moreplayermodels.mixins.json:BipedBodyMixin
+[18:36:51] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER
+[18:36:51] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/LivingRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER)
+[18:36:51] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.LivingRenderer was not found moreplayermodels.mixins.json:LivingRendererMixin
+[18:36:51] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/model/ModelRenderer (java.lang.ClassNotFoundException: null)
+[18:36:51] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.model.ModelRenderer was not found moreplayermodels.mixins.json:ModelRendererMixin
+[18:36:51] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER
+[18:36:51] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleManager (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER)
+[18:36:51] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleManager was not found moreplayermodels.mixins.json:ParticleManagerMixin
+[18:36:51] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER
+[18:36:51] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PlayerRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER)
+[18:36:51] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PlayerRenderer was not found moreplayermodels.mixins.json:PlayerRendererMixin
+[18:36:59] [modloading-worker-2/INFO] [team.chisel.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field GASU_GASU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field YUKI_YUKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field HIE_HIE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field JIKI_JIKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field MOKU_MOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field PIKA_PIKA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field HITO_HITO_NO_MI_DAIBUTSU:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field KIRA_KIRA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field DOKU_DOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field GURA_GURA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field MAGU_MAGU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field TORI_TORI_NO_MI_PHOENIX:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field GORO_GORO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field GOE_GOE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field CHIYU_CHIYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field NIKYU_NIKYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field SUNA_SUNA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_PTERANODON:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field MINI_MINI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field OTO_OTO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field SARA_SARA_NO_MI_AXOLOTL:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field OPE_OPE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-3/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_BRACHIOSAURUS:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[18:36:59] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[18:36:59] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[18:36:59] [modloading-worker-1/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon constructed
+[18:36:59] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.change_character
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
+[18:37:02] [modloading-worker-3/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
+[18:37:05] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[18:37:05] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[18:37:05] [main/INFO] [com.barion.dungeons_enhanced.DungeonsEnhanced/]: Dungeons Enhanced structures loaded
+[18:37:06] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
+[18:37:06] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[18:37:06] [modloading-worker-3/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon common setup complete
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@4e9997d5' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@21e18a3f' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@22e98648' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@1b1cf8ba' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@234496e9' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@4e9997d5' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@21e18a3f' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@22e98648' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@1b1cf8ba' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@234496e9' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@4e9997d5' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@21e18a3f' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@22e98648' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@1b1cf8ba' to registry
+[18:37:07] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@234496e9' to registry
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC Permissions available:
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[18:37:07] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[18:37:07] [main/INFO] [journeymap/]: Initializing Packet Registries
+[18:37:07] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[18:37:07] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[18:37:07] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[18:37:07] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[18:37:07] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:thunder_plains to structure_gel:[]
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:sabaody to structure_gel:[]
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:drum to structure_gel:[]
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:castle
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_temple
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_tomb
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:druid_circle
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:dungeon_variant
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:elders_temple
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:fishing_ship
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:flying_dutchman
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:hay_storage
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ice_pit
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:jungle_monument
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:large_dungeon
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:miners_house
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:monster_maze
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:mushroom_house
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pillager_camp
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pirate_ship
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ruined_building
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:stables
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:sunken_shrine
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tall_witch_hut
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tree_house
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tower_of_the_undead
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:watch_tower
+[18:37:08] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:witch_tower
+[18:37:10] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: Mods loaded with 1 warnings
+[18:37:10] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: File voicechat-fabric-1.16.5-2.6.4.jar is a Fabric mod and cannot be loaded
+[18:37:10] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 9 outside of range [0:7]
+[18:37:11] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:37:12] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-8c7caaf7-universal.jar, bukkit, FarmersDelight-1.16.5-0.6.0.jar, ColtCosmeticArmorMod-1.2.5.jar, mine-mine-no-mi-1.16.5-0.10.7.jar, CustomNPCs-1.16.5.20220515.jar, CreativeCore_v2.2.1_mc1.16.5.jar, Chisel-Mod-1.16.5.jar, dungeons_enhanced-1.16.5-1.9.2.jar, smallships-1.16.5-2.0.0-Alpha-0.4.jar, EoPAddon-0.3.jar, curios-forge-1.16.5-4.1.0.0.jar, cartaddon-0.7.11.jar, CosmeticArmorReworked-1.16.5-v5a.jar, Waystones_1.16.5-7.6.4.jar, MorePlayerModels-1.16.5.20220731.jar, structure_gel-1.16.5-1.7.8.jar, journeymap-1.16.5-5.8.6.jar, CTM-MC1.16.1-1.1.2.6.jar, TravelersBackpack-1.16.5-5.4.51.jar, ParCool-1.16.5-3.4.1.5.jar, hakibar-1.16.5-1.8.jar, worldedit-mod-7.2.5-dist.jar, architectury-1.32.68.jar, minecraft-comes-alive-7.3.23+1.16.5-universal (1).jar
+[18:37:14] [Worker-Main-6/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[18:37:16] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,749 recipes
+[18:37:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[18:37:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18:37:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18:37:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[18:37:20] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[18:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:37:20] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-8c7caaf7 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[18:37:22] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[18:37:22] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[18:37:22] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[18:37:22] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[18:37:23] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[18:37:23] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[18:37:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18:37:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18:37:26] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:37:27] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
+[18:37:28] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[18:37:28] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3,578 ms
+[18:37:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[18:37:29] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:37:30] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[18:37:32] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[18:37:33] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[18:37:33] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[18:37:34] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6,415 ms
+[18:37:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[18:37:35] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:37:35] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[18:37:35] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[18:37:36] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,353 ms
+[18:37:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges
+[18:37:36] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:37:36] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 501 ms
+[18:37:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f
+[18:37:37] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 35%
+[18:37:37] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 780 ms
+[18:37:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4
+[18:37:37] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:37:37] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[18:37:38] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 721 ms
+[18:37:38] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[18:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.475s)! For help, type "help"
+[18:37:39] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@75530ee1]
+[18:37:40] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[18:37:40] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.
+[18:38:57] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player lachapagmg10 is 39c46827-9d52-3990-94c4-0de366a984ff
+[18:38:57] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 28 mods : minecraft, farmersdelight, ftbessentials, mineminenomi, creativecore, rpghud, jei, dungeons_enhanced, curios, waystones, moreplayermodels, journeymap, ctm, travelersbackpack, parcool, ccam, customnpcs, cartaddon, architectury, ftblibrary, mca, chisel, smallships, eopaddon, forge, cosmeticarmorreworked, structure_gel, hakibar
+[18:38:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lachapagmg10[/127.76.21.75:59645] logged in with entity id 125 at (-135.496, 81, 220.047)
+[18:39:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 39c46827-9d52-3990-94c4-0de366a984ff was loaded
+[18:39:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [lachapagmg10]
+[18:39:01] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [lachapagmg10]
+[18:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made lachapagmg10 a server operator
+[18:39:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [lachapagmg10]
+[18:39:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [lachapagmg10]
+[18:40:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lachapagmg10 lost connection: Disconnected
+[18:40:19] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 39c46827-9d52-3990-94c4-0de366a984ff was unloaded
+[18:40:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lachapagmg10 left the game
+[18:41:11] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[18:41:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18:41:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18:41:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18:41:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:41:11] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@593ef92f
+java.io.FileNotFoundException: ./world/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:11] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data xyz.pixelatedw.mineminenomi.data.world.EventsWorldData@13a438e0
+java.io.FileNotFoundException: ./world/data/mineminenomi-events.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:11] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data forge.net.mca.util.WorldUtils$1@14ba08e5
+java.io.FileNotFoundException: ./world/data/mca_player_39c46827-9d52-3990-94c4-0de366a984ff.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:11] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@3f7ce08d
+java.io.FileNotFoundException: ./world/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:12] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[18:41:12] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@6edd6705
+java.io.FileNotFoundException: ./world/DIM-1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:12] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@30ad453d
+java.io.FileNotFoundException: ./world/DIM-1/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:13] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[18:41:13] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@7e9a0f52
+java.io.FileNotFoundException: ./world/DIM1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:13] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@6dd09a70
+java.io.FileNotFoundException: ./world/DIM1/data/raids_end.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:41:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[challenges]'/mineminenomi:challenges
+[18:41:14] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@fd24afc
+java.io.FileNotFoundException: ./world/dimensions/mineminenomi/challenges/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:14] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@41e9c98e
+java.io.FileNotFoundException: ./world/dimensions/mineminenomi/challenges/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:48) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:129) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:918) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:894) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:612) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:679) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServer.java:630) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:889) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
+[18:41:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f]'/mineminenomi:challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f
+[18:41:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4]'/mineminenomi:challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f): All chunks are saved
+[18:41:14] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4): All chunks are saved
