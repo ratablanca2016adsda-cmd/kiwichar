@@ -936,6 +936,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/chew": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 22:13:01 +0000"

@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/s_snake": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-10-04 20:56:16 +0000"
@@ -646,6 +652,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-10-04 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_1_hard": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:04:17 +0000"
     },
     "done": true
   },
@@ -3322,6 +3334,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/s_snake_hard": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_warped_planks": "2025-10-04 20:54:50 +0000"
@@ -3613,6 +3631,12 @@
   "smallships:recipes/spruce_war_galley": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/kuro_hard": {
+    "criteria": {
+      "unlock_challenge": "2025-10-06 03:03:17 +0000"
     },
     "done": true
   },

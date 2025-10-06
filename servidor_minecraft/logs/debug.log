@@ -15563,3 +15563,282 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [03:01:56] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started KURO_HARD challenge.
 [03:01:56] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 8ms
 [03:01:57] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 2116456 blocks
+[03:02:34] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 28.9s
+[03:02:39] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Kuro's phase to: Normal Phase
+[03:02:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:02:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:03:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Kuro's phase to: Ulti Phase
+[03:03:10] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:03:10] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:03:17] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 2.366s
+[03:03:17] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/198, l='ServerLevel[world]', x=102.00, y=103.00, z=-641.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 102.0,103.0,-641.0) left loaded chunk area
+[03:03:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 has completed the challenge [Kuro (Hard)]
+[03:03:17] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:03:17] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:03:18] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:03:18] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:03:18] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[03:03:18] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[03:03:19] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[03:03:19] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[03:03:19] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Marine Sniper's phase to: Range Phase
+[03:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias was shot by Skeleton
+[03:03:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[03:03:22] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[03:03:32] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started MR_1_HARD challenge.
+[03:03:32] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[03:03:33] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 509309 blocks
+[03:03:37] [Server thread/INFO] [mineminenomi/]: Sero started CHEW challenge.
+[03:03:37] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 12ms
+[03:03:37] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 4.2s
+[03:03:38] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 750748 blocks
+[03:03:42] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:03:42] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:03:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Mr 1's phase to: First Phase
+[03:03:46] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 5.35s
+[03:03:48] [Server thread/INFO] [journeymap/]: mineminenomi~challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4 (Initialized) Setting config file to version "5.8.6": journeymap.server.mineminenomi~challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4.config
+[03:03:48] [Server thread/INFO] [journeymap/]: mineminenomi~challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4 (Valid) Creating config file: ./journeymap/server/5.8/journeymap.server.mineminenomi~challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4.config
+[03:03:55] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:03:55] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:03:55] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias moved too quickly! -21.974,-3,4.102
+[03:03:55] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 moved too quickly! -6.226,0.42,-8.094
+[03:03:58] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Chew's phase to: Ground Phase
+[03:04:17] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 1.538s
+[03:04:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 has completed the challenge [Mr. 1 (Hard)]
+[03:04:17] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:04:17] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:04:18] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:04:18] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:04:22] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
+[03:04:23] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Uchimizu at tick 508
+[03:04:24] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Mizu Taiho at tick 524
+[03:04:26] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Mizu Shuryudan at tick 569
+[03:04:29] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Uchimizu at tick 624
+[03:04:34] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Uchimizu at tick 720
+[03:04:35] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SNAKE challenge.
+[03:04:35] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[03:04:37] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 0 blocks
+[03:04:37] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.0s
+[03:04:38] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Mizu Shuryudan at tick 791
+[03:04:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:04:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:04:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched S-Snake's phase to: First Phase
+[03:04:45] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Uchimizu at tick 846
+[03:04:49] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Mizu Taiho at tick 917
+[03:04:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Uchimizu at tick 972
+[03:04:55] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Mizu Shuryudan at tick 1041
+[03:04:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Mizu Osu at tick 1086
+[03:04:58] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Uchimizu at tick 1096
+[03:04:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=335, y=71, z=-657}
+[03:04:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:mob_spawner @ BlockPos{x=334, y=67, z=-659}
+[03:04:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:mob_spawner @ BlockPos{x=336, y=68, z=-658}
+[03:04:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=333, y=71, z=-661}
+[03:04:59] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=335, y=71, z=-662}
+[03:05:00] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=348, y=71, z=-642}
+[03:05:06] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 2.001s
+[03:05:06] [Server thread/INFO] [mineminenomi/]: Sero's challenge stopped.
+[03:05:06] [Server thread/INFO] [mineminenomi/]: Sero's challenge stopped.
+[03:05:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:05:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:05:19] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 1.453s
+[03:05:19] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/198, l='ServerLevel[world]', x=102.00, y=103.00, z=-641.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 102.0,103.0,-641.0) left loaded chunk area
+[03:05:19] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:05:19] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:05:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:05:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:05:28] [Server thread/INFO] [mineminenomi/]: Sero started BLACK_CAT_PIRATES challenge.
+[03:05:28] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[03:05:29] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 2116456 blocks
+[03:05:46] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 13.2s
+[03:05:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:05:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:05:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Jango's phase to: Standard Phase
+[03:05:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Kuro's phase to: Normal Phase
+[03:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias burned to death
+[03:05:54] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 88
+[03:05:54] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 79
+[03:05:55] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[03:05:55] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[03:05:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 161
+[03:05:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Belly Flop at tick 163
+[03:05:58] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 170
+[03:06:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 218
+[03:06:01] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Tackle at tick 243
+[03:06:02] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 240
+[03:06:03] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 280
+[03:06:09] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 379
+[03:06:11] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 421
+[03:06:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 472
+[03:06:17] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 540
+[03:06:18] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 567
+[03:06:18] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Tackle at tick 577
+[03:06:20] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 603
+[03:06:25] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 701
+[03:06:25] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Belly Flop at tick 715
+[03:06:25] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 715
+[03:06:28] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 776
+[03:06:29] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 785
+[03:06:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 892
+[03:06:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Tackle at tick 906
+[03:06:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 906
+[03:06:37] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SNAKE_HARD challenge.
+[03:06:37] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[03:06:38] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 0 blocks
+[03:06:38] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.0s
+[03:06:38] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 967
+[03:06:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:06:45] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:06:46] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched S-Snake's phase to: Second Phase
+[03:06:49] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 1053
+[03:06:49] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 1067
+[03:06:50] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 1096
+[03:06:52] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 1129
+[03:06:53] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1149
+[03:06:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 1214
+[03:06:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Tackle at tick 1239
+[03:06:59] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 1269
+[03:07:02] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Belly Flop at tick 1325
+[03:07:05] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 1375
+[03:07:05] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1375
+[03:07:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias drowned
+[03:07:07] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 1431
+[03:07:08] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1437
+[03:07:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Matias]
+[03:07:08] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Matias]
+[03:07:09] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 1468
+[03:07:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 1536
+[03:07:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 1562
+[03:07:14] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Tackle at tick 1571
+[03:07:16] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1606
+[03:07:22] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 1715
+[03:07:22] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 1729
+[03:07:25] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1787
+[03:07:27] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 1826
+[03:07:30] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 1876
+[03:07:30] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 1890
+[03:07:30] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Tackle at tick 1903
+[03:07:33] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 1949
+[03:07:33] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 1964
+[03:07:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Belly Flop at tick 1991
+[03:07:38] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 2037
+[03:07:38] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 2050
+[03:07:40] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 2096
+[03:07:42] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Charged Punch at tick 2128
+[03:07:46] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 2198
+[03:07:46] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 2212
+[03:07:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Buchi stopped Tackle at tick 2226
+[03:07:48] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 2231
+[03:07:52] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 1.474s
+[03:07:52] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/198, l='ServerLevel[world]', x=102.00, y=103.00, z=-641.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 102.0,103.0,-641.0) left loaded chunk area
+[03:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 has completed the challenge [S-Snake (Hard)]
+[03:07:52] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:07:52] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:07:52] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
+[03:07:52] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 2313
+[03:07:53] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:07:53] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:07:54] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 2359
+[03:07:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 2413
+[03:08:02] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 2520
+[03:08:05] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SHARK challenge.
+[03:08:05] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[03:08:07] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 0 blocks
+[03:08:07] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.0s
+[03:08:07] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 2595
+[03:08:07] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 2612
+[03:08:08] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 2614
+[03:08:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:08:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:08:15] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias moved wrongly!
+[03:08:16] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched S-Shark's phase to: First Phase
+[03:08:18] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 2681
+[03:08:19] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 2702
+[03:08:26] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 2842
+[03:08:26] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 2856
+[03:08:28] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 2883
+[03:08:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matias lost connection: Disconnected
+[03:08:28] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02f304cc-81a1-310f-9666-e89b3a29beee was unloaded
+[03:08:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matias left the game
+[03:08:34] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Jango stopped One Two Jango at tick 3003
+[03:08:35] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Steal Punch at tick 3040
+[03:08:37] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
+[03:08:37] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 3065
+[03:08:38] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 3093
+[03:08:43] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:08:43] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:08:43] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 3187
+[03:08:45] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Sham stopped Leap at tick 3233
+[03:08:47] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Kuro's phase to: Ulti Phase
+[03:08:49] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 1.465s
+[03:08:49] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/198, l='ServerLevel[world]', x=102.00, y=103.00, z=-641.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 102.0,103.0,-641.0) left loaded chunk area
+[03:08:49] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:08:50] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:08:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:08:50] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:08:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Shakushi at tick 3348
+[03:08:51] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Kuro's phase to: Normal Phase
+[03:08:54] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 3409
+[03:08:57] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Takedown Kick at tick 3469
+[03:09:00] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Kuro stopped Stealth Foot at tick 3531
+[03:09:05] [Server thread/INFO] [mineminenomi/]: DarkKnight124 started S_SHARK_HARD challenge.
+[03:09:05] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[03:09:07] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 0 blocks
+[03:09:09] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 2.478s
+[03:09:09] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['Sero'/316, l='ServerLevel[world]', x=328.00, y=79.00, z=-487.00](TextComponent{text='Sero', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 328.0,79.0,-487.0) left loaded chunk area
+[03:09:09] [Server thread/INFO] [mineminenomi/]: Sero's challenge stopped.
+[03:09:09] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 0.0s
+[03:09:09] [Server thread/INFO] [mineminenomi/]: Sero's challenge stopped.
+[03:09:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:09:10] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:09:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:09:15] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:09:15] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched S-Shark's phase to: Second Phase
+[03:09:48] [Server thread/INFO] [mineminenomi/]: Sero started CHEW_HARD challenge.
+[03:09:48] [Server thread/DEBUG] [mineminenomi/]: Dimension setup: 0ms
+[03:09:49] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: Size: 750748 blocks
+[03:09:52] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: CLEAR TIME: 2.175s
+[03:09:52] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['DarkKnight124'/198, l='ServerLevel[world]', x=102.00, y=103.00, z=-641.00](TextComponent{text='DarkKnight124', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 102.0,103.0,-641.0) left loaded chunk area
+[03:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarkKnight124 has completed the challenge [S-Shark (Hard)]
+[03:09:52] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:09:52] [Server thread/INFO] [mineminenomi/]: DarkKnight124's challenge stopped.
+[03:09:53] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DarkKnight124]
+[03:09:53] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DarkKnight124]
+[03:09:56] [Server thread/DEBUG] [mineminenomi/IP_CHALLENGE]: BUILD TIME: 5.25s
+[03:09:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:09:58] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:09:59] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Chew's phase to: Ground Phase
+[03:10:03] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
+[03:10:12] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Murasame at tick 262
+[03:10:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.NPCPhaseManager/]: Switched Chew's phase to: Water Phase
+[03:10:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Mizu Taiho at tick 287
+[03:10:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Busoshoku Haki: Internal Destruction at tick 300
+[03:10:13] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Busoshoku Haki: Imbuing at tick 300
+[03:10:14] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Busoshoku Haki: Internal Destruction at tick 305
+[03:10:14] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Chew stopped Busoshoku Haki: Imbuing at tick 305
+[03:10:14] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['Sero'/316, l='ServerLevel[world]', x=328.00, y=79.00, z=-487.00](TextComponent{text='Sero', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 328.0,79.0,-487.0) left loaded chunk area
+[03:10:14] [Server thread/INFO] [mineminenomi/]: Sero's challenge stopped.
+[03:10:14] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:10:14] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:10:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /gamemode survival
+[03:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Set own game mode to Survival Mode]
+[03:10:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /tp Sero
+[03:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Teleported DarkKnight124 to Sero]
+[03:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124 using Busoshoku Haki: Hardening
+[03:10:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:10:56] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:11:40] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Sero moved wrongly!
+[03:11:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero was killed by DarkKnight124
+[03:11:55] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:11:55] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:12:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /doriki 15000
+[03:12:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: +15000 doriki for DarkKnight124]
+[03:12:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /kill Sero
+[03:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero fell out of the world
+[03:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Killed Sero]
+[03:12:17] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:12:17] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]
+[03:12:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DarkKnight124 issued server command: /kill Sero
+[03:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sero fell out of the world
+[03:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarkKnight124: Killed Sero]
+[03:12:23] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sero]
+[03:12:23] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sero]

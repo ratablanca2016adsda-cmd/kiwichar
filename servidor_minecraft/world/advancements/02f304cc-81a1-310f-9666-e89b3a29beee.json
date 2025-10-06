@@ -2853,6 +2853,12 @@
     },
     "done": true
   },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-10-06 03:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:42:14 +0000"
