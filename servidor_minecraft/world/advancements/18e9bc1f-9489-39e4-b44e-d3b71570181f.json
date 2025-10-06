@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "mca:baby_smelted": {
+    "criteria": {
+      "baby_smelted": "2025-10-06 02:28:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-10-05 21:31:43 +0000"
@@ -431,6 +437,7 @@
       "entered_flying_dutchman": "2025-10-05 20:25:06 +0000",
       "entered_pirate_ship": "2025-10-05 19:53:38 +0000",
       "entered_fishing_ship": "2025-10-05 20:16:26 +0000",
+      "entered_castle": "2025-10-06 02:33:49 +0000",
       "entered_ruined_building": "2025-10-06 01:32:24 +0000",
       "entered_witch_tower": "2025-10-04 22:39:28 +0000"
     },
@@ -736,6 +743,7 @@
       "minecraft:skeleton": "2025-10-05 20:25:44 +0000",
       "minecraft:vindicator": "2025-10-05 19:53:42 +0000",
       "minecraft:evoker": "2025-10-05 19:56:10 +0000",
+      "minecraft:silverfish": "2025-10-06 02:34:07 +0000",
       "minecraft:vex": "2025-10-05 19:56:00 +0000",
       "minecraft:zombie": "2025-10-04 20:24:42 +0000",
       "minecraft:drowned": "2025-10-05 19:54:19 +0000"
@@ -1471,6 +1479,12 @@
       "in_water": "2025-10-04 20:25:27 +0000"
     },
     "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby_drop_attempts": "2025-10-06 02:28:32 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/bop_dead_brigg": {
     "criteria": {
@@ -2384,6 +2398,12 @@
   "smallships:recipes/envi_cherry_rowboat": {
     "criteria": {
       "in_water": "2025-10-04 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-10-06 02:33:49 +0000"
     },
     "done": true
   },
@@ -3473,6 +3493,12 @@
       "in_water": "2025-10-04 20:25:27 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2025-10-06 02:33:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
