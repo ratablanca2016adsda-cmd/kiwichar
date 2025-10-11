@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.76.21.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1759942737613
+  login: 1759942680083
+money: '0'
+last-account-name: lachapagmg10
+logoutlocation:
+  world: 9229ba50-a4e7-4956-96d8-4412732fb1b2
+  world-name: world
+  x: -159.19092458547865
+  y: 69.0
+  z: 234.21553635023025
+  yaw: 43.761234283447266
+  pitch: 44.5794677734375

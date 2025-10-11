@@ -1,0 +1,363 @@
+[03:57:17] [main/INFO] [STDOUT/]: Update in check...
+[03:57:17] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[03:57:18] [main/INFO] [STDOUT/]: [!] Can't connect to the ci to check updates or unable to download the update.
+[03:57:18] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[03:57:18] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 11.0.28 by Ubuntu
+[03:57:18] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[03:57:18] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/kiwichar/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[03:57:20] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[03:57:20] [main/WARN] [mixin/]: Reference map 'MineMineNoMiAddonTemplate.refmap.json' for eopaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:57:20] [main/WARN] [mixin/]: Reference map 'CartAddon.refmap.json' for cartaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:57:21] [main/WARN] [mixin/]: Error loading class: org/valkyrienskies/core/util/assertions/stages/TickStageEnforcerImpl (java.lang.ClassNotFoundException: null)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target org.valkyrienskies.core.util.assertions.stages.TickStageEnforcerImpl was not found mine-mine-no-mi.mixins.json:valkyrienskies.TickStageEnforcerImplMixin
+[03:57:21] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/AbstractClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/AbstractClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.AbstractClientPlayerEntity was not found moreplayermodels.mixins.json:AbstractClientPlayerEntityMixin
+[03:57:21] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/ActiveRenderInfo (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/ActiveRenderInfo for invalid dist DEDICATED_SERVER)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.ActiveRenderInfo was not found moreplayermodels.mixins.json:ActiveRenderInfoMixin
+[03:57:21] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/layers/BipedArmorLayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.layers.BipedArmorLayer was not found moreplayermodels.mixins.json:ArmorLayerMixin
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/model/BipedModel (java.lang.ClassNotFoundException: null)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.model.BipedModel was not found moreplayermodels.mixins.json:BipedBodyMixin
+[03:57:21] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/LivingRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/LivingRenderer for invalid dist DEDICATED_SERVER)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.LivingRenderer was not found moreplayermodels.mixins.json:LivingRendererMixin
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/model/ModelRenderer (java.lang.ClassNotFoundException: null)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.model.ModelRenderer was not found moreplayermodels.mixins.json:ModelRendererMixin
+[03:57:21] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleManager (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleManager for invalid dist DEDICATED_SERVER)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleManager was not found moreplayermodels.mixins.json:ParticleManagerMixin
+[03:57:21] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER
+[03:57:21] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PlayerRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/PlayerRenderer for invalid dist DEDICATED_SERVER)
+[03:57:21] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PlayerRenderer was not found moreplayermodels.mixins.json:PlayerRendererMixin
+[03:57:29] [modloading-worker-3/INFO] [team.chisel.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field GASU_GASU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field YUKI_YUKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field HIE_HIE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field JIKI_JIKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field MOKU_MOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field PIKA_PIKA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field HITO_HITO_NO_MI_DAIBUTSU:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field KIRA_KIRA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field DOKU_DOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field GURA_GURA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field MAGU_MAGU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field TORI_TORI_NO_MI_PHOENIX:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field GORO_GORO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field GOE_GOE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field CHIYU_CHIYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field NIKYU_NIKYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field SUNA_SUNA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_PTERANODON:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field MINI_MINI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field OTO_OTO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field SARA_SARA_NO_MI_AXOLOTL:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field OPE_OPE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:29] [modloading-worker-1/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_BRACHIOSAURUS:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[03:57:30] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[03:57:30] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[03:57:30] [modloading-worker-0/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon constructed
+[03:57:30] [modloading-worker-2/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.change_character
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
+[03:57:32] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
+[03:57:35] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[03:57:35] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[03:57:36] [main/INFO] [com.barion.dungeons_enhanced.DungeonsEnhanced/]: Dungeons Enhanced structures loaded
+[03:57:36] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
+[03:57:36] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[03:57:36] [modloading-worker-1/INFO] [net.og.eraofpirates.EopAddon/]: EopAddon common setup complete
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7b20da75' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@712695ce' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@770cf19f' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@26fa3e45' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@ca81aed' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7b20da75' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@712695ce' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@770cf19f' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@26fa3e45' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@ca81aed' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@7b20da75' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@712695ce' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@770cf19f' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@26fa3e45' to registry
+[03:57:37] [modloading-worker-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@ca81aed' to registry
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC Permissions available:
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[03:57:38] [modloading-worker-3/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[03:57:38] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03:57:38] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[03:57:38] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[03:57:38] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[03:57:38] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:thunder_plains to structure_gel:[]
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:sabaody to structure_gel:[]
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Registered mineminenomi:drum to structure_gel:[]
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:castle
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_temple
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:desert_tomb
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:druid_circle
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:dungeon_variant
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:elders_temple
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:fishing_ship
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:flying_dutchman
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:hay_storage
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ice_pit
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:jungle_monument
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:large_dungeon
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:miners_house
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:monster_maze
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:mushroom_house
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pillager_camp
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:pirate_ship
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:ruined_building
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:stables
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:sunken_shrine
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tall_witch_hut
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tree_house
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:tower_of_the_undead
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:watch_tower
+[03:57:38] [modloading-worker-1/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_enhanced:witch_tower
+[03:57:41] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 9 outside of range [0:7]
+[03:57:41] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:57:42] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-8c7caaf7-universal.jar, bukkit, FarmersDelight-1.16.5-0.6.0.jar, ColtCosmeticArmorMod-1.2.5.jar, mine-mine-no-mi-1.16.5-0.10.7.jar, CustomNPCs-1.16.5.20220515.jar, CreativeCore_v2.2.1_mc1.16.5.jar, Chisel-Mod-1.16.5.jar, dungeons_enhanced-1.16.5-1.9.2.jar, smallships-1.16.5-2.0.0-Alpha-0.4.jar, EoPAddon-0.3.jar, curios-forge-1.16.5-4.1.0.0.jar, cartaddon-0.7.11.jar, CosmeticArmorReworked-1.16.5-v5a.jar, Waystones_1.16.5-7.6.4.jar, MorePlayerModels-1.16.5.20220731.jar, structure_gel-1.16.5-1.7.8.jar, journeymap-1.16.5-5.8.6.jar, CTM-MC1.16.1-1.1.2.6.jar, TravelersBackpack-1.16.5-5.4.51.jar, ParCool-1.16.5-3.4.1.5.jar, hakibar-1.16.5-1.8.jar, worldedit-mod-7.2.5-dist.jar, architectury-1.32.68.jar, minecraft-comes-alive-7.3.23+1.16.5-universal (1).jar
+[03:57:44] [Worker-Main-6/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[03:57:47] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,749 recipes
+[03:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[03:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03:57:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[03:57:50] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[03:57:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:57:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03:57:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:57:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:57:51] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-8c7caaf7 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[03:57:52] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[03:57:52] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[03:57:52] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[03:57:53] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[03:57:54] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/SetHome-6.2.3.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.20
+	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:325) ~[forge:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:140) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:395) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:303) ~[forge:?]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[forge:7e29f765-296df566-9fb885e8]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:218) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[03:57:55] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/worldedit-bukkit-7.3.16.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.3
+	at org.bukkit.craftbukkit.v1_16_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:325) ~[forge:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:140) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:395) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:303) ~[forge:?]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[forge:7e29f765-296df566-9fb885e8]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:218) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+[03:57:56] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/ProtocolLib (2).jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/comphenix/protocol/ProtocolLib has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:148) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:395) ~[forge:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:303) ~[forge:?]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:393) ~[forge:7e29f765-296df566-9fb885e8]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:218) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: com/comphenix/protocol/ProtocolLib has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1022) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.remappedFindClass(PluginClassLoader.java:279) ~[forge:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:202) ~[forge:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:138) ~[forge:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:133) ~[forge:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:83) ~[forge:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:144) ~[forge:?]
+	... 7 more
+[03:57:56] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Loading ClearLag v3.2.2
+[03:57:56] [Server thread/INFO] [me.mulemuledupe.simpletpa.SimpleTpa/]: [SimpleTpa] Loading SimpleTpa v7.9
+[03:57:56] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading LuckPerms v5.5.0
+[03:57:57] [Server thread/INFO] [com.collinsrichard.easywarp.EasyWarp/]: [EasyWarp] Loading EasyWarp v3.16
+[03:57:57] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials v2.21.2
+[03:57:57] [Server thread/INFO] [de.rexlnico.realtimeplugin.main.Main/]: [RealTimePlugin] Loading RealTimePlugin v3.9
+[03:57:57] [Server thread/INFO] [emanondev.itemedit.ItemEdit/]: [ItemEdit] Loading ItemEdit v3.7.4
+[03:57:57] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Loading SkinsRestorer v15.8.2
+[03:57:57] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[03:57:57] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Enabling LuckPerms v5.5.0
+[03:58:01] [Server thread/INFO] [/]:         __    
+[03:58:01] [Server thread/INFO] [/]:   |    |__)   LuckPerms v5.5.0
+[03:58:01] [Server thread/INFO] [/]:   |___ |      Running on Bukkit - Mohist
+[03:58:01] [Server thread/INFO] [/]: 
+[03:58:01] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading configuration...
+[03:58:04] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading storage provider... [H2]
+[03:58:12] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading internal permission managers...
+[03:58:13] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Performing initial data load...
+[03:58:15] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Successfully enabled. (took 17913ms)
+[03:58:15] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Enabling SkinsRestorer v15.8.2
+[03:58:18] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[03:58:20] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[03:58:20] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[03:58:20] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[03:58:20] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[03:58:20] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03:58:20] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03:58:20] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03:58:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03:58:21] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03:58:22] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[03:58:22] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,609 ms
+[03:58:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[03:58:22] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03:58:23] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[03:58:25] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[03:58:26] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[03:58:26] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[03:58:26] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4,610 ms
+[03:58:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[03:58:26] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03:58:27] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[03:58:27] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 920 ms
+[03:58:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges
+[03:58:27] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[03:58:27] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 302 ms
+[03:58:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges_18e9bc1f-9489-39e4-b44e-d3b71570181f
+[03:58:28] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 467 ms
+[03:58:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension mineminenomi:challenges_8cae250b-7a60-3eb3-b16a-903d129eecd4
+[03:58:28] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 386 ms
+[03:58:28] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Enabling ClearLag v3.2.2
+[03:58:28] [Server thread/INFO] [Minecraft/]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[03:58:28] [Server thread/INFO] [Minecraft/]: [ClearLag] Loading modules...
+[03:58:28] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules enabed, loading config values
+[03:58:29] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules have been loaded!
+[03:58:29] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now enabled!
+[03:58:29] [Thread-13/INFO] [Minecraft/]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[03:58:29] [Server thread/INFO] [me.mulemuledupe.simpletpa.SimpleTpa/]: [SimpleTpa] Enabling SimpleTpa v7.9
+[03:58:29] [Server thread/INFO] [/]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:58:29] [Server thread/INFO] [/]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
+[03:58:29] [Server thread/INFO] [Minecraft/]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[03:58:29] [Server thread/INFO] [com.collinsrichard.easywarp.EasyWarp/]: [EasyWarp] Enabling EasyWarp v3.16
+[03:58:29] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials v2.21.2
+[03:58:29] [Thread-13/INFO] [Minecraft/]: [ClearLag] No updates found!
+[03:58:30] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[03:58:30] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[03:58:30] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[03:58:30] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: No provider found for TickCountProvider, but it is nullable
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Bukkit Material Tag Provider as the provider for MaterialTagProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: No provider found for BiomeKeyProvider, but it is nullable
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Paper Server State Provider as the provider for ServerStateProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Fixed Height World Info Provider as the provider for WorldInfoProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: No provider found for ContainerProvider, but it is nullable
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: Selected Reflection Known Commands Provider as the provider for KnownCommandsProvider
+[03:58:31] [Server thread/INFO] [Essentials/]: No provider found for SerializationProvider, but it is nullable
+[03:58:31] [Server thread/INFO] [Essentials/]: Loaded 43880 items from items.json.
+[03:58:31] [Server thread/INFO] [Essentials/]: Using locale en
+[03:58:31] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[03:58:31] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[03:58:31] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
+[03:58:31] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[03:58:31] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[03:58:31] [Server thread/INFO] [de.rexlnico.realtimeplugin.main.Main/]: [RealTimePlugin] Enabling RealTimePlugin v3.9
+[03:58:31] [Server thread/INFO] [emanondev.itemedit.ItemEdit/]: [ItemEdit] Enabling ItemEdit v3.7.4
+[03:58:32] [Server thread/INFO] [/]: [ItemEdit] Selected Storage Type: YAML
+[03:58:32] [Server thread/INFO] [/]: [ItemEdit] Unable to hook into Vault
+[03:58:32] [Server thread/INFO] [/]: [ItemEdit] # Enabled (took 319 ms)
+[03:58:32] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[03:58:32] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading base translations from "en_us"
+[03:58:32] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading specified translations from "en_us"
+[03:58:32] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Registering commands...
+[03:58:32] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Registering listeners...
+[03:58:32] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Using 1.12+ map captcha renderer
+[03:58:32] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[03:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.114s)! For help, type "help"
+[03:58:33] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@72476f91]
+[03:58:34] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[03:58:34] [Craft Scheduler Thread - 4/INFO] [Essentials/]: Fetching version information...
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.8.2[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mcf773a3[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[03:58:35] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
